@@ -15,6 +15,8 @@
 - [arrays](DSA/arrays)
     - [3sum](DSA/arrays/ThreeSum.ipynb)
     - [3sum v2](DSA/arrays/ThreeSum2.ipynb)
+- [剑指offer](剑指offer)
+    - [FirstNotRepeatingChar](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA)
     - [binary_search](DSA/binary_search_demo.ipynb)
     - [Hailstone.ipynb](DSA/Hailstone.ipynb)
@@ -27,7 +29,7 @@
 
 The interactive features of the notebook will not work in my repo on GitHub. For an example, you might see error message like this:
 
-<div align=center>![](https://i.loli.net/2019/03/13/5c89078c71562.png)</div>
+![](https://i.loli.net/2019/03/13/5c89078c71562.png)
 
 > To view Jupyter online or share with others, you can use [nbviewer](https://nbviewer.jupyter.org/). 
 >
