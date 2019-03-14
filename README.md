@@ -4,6 +4,8 @@
 
 <!-- GFM-TOC -->
 
+**Index**
+
 * [List of Implementations](#list-of-implementations)
 * [Instructions](#instructions)
 * [References](#references)
@@ -12,8 +14,9 @@
 ## List of Implementations
 - [arrays](DSA/arrays)
     - [3sum](DSA/arrays/ThreeSum.ipynb)
+    - [3sum v2](DSA/arrays/ThreeSum2.ipynb)
 - [others](DSA)
-    - [binary_search demo.ipynb](DSA/binary_search demo.ipynb)
+    - [binary_search](DSA/binary_search_demo.ipynb)
     - [Hailstone.ipynb](DSA/Hailstone.ipynb)
 - [fundamentals](fundamentals)
     - [pybasic](fundamentals/pybasic.ipynb)
@@ -24,7 +27,7 @@
 
 The interactive features of the notebook will not work in my repo on GitHub. For an example, you might see error message like this:
 
-![](https://i.loli.net/2019/03/13/5c89078c71562.png)
+<div align=center>![](https://i.loli.net/2019/03/13/5c89078c71562.png)</div>
 
 > To view Jupyter online or share with others, you can use [nbviewer](https://nbviewer.jupyter.org/). 
 >
