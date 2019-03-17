@@ -1,8 +1,9 @@
 #coding:utf-8
 '''
-在一个字符串(0<=字符串长度<=10000，全部由字母组成)中
-找到第一个只出现一次的字符,并返回它的位置,
-如果没有则返回 -1（需要区分大小写）.
+find a first character in string
+return its location
+if not exist, return -1
+capital case and little case differ
 '''
 
 # method 1
