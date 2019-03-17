@@ -5,9 +5,12 @@ input a 2d array and an integer, judge if this integer included.
 
 
 def Find(target, array):
+	if array == []:
+		return False
+		
     num_c = len(array[0])
     num_r = len(array)
-
+	
     i = 0 # row
     j = num_c - 1   # column
     while i < num_r and j >= 0:
