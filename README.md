@@ -17,6 +17,7 @@
     - [3sum v2](DSA/arrays/ThreeSum2.ipynb)
 - [剑指offer](剑指offer)
     - [01. Search in 2d array](剑指offer/findin2darray.py)
+    - [02. Replace space](剑指offer/replacespace.py)
     - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA)
     - [binary_search](DSA/binary_search_demo.ipynb)
