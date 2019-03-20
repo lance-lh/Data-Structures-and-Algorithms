@@ -19,6 +19,7 @@
     - [15. 3Sum](DSA/arrays/ThreeSum.ipynb)
     - [16. 3Sum Closest](DSA/arrays/ThreeSumClosest.ipynb)
 - [linkedlist](DSA/linkedlist)
+    - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
     - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
 - [剑指offer](剑指offer)
     - [01. Search in 2d array](剑指offer/findin2darray.py)
