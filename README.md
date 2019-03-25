@@ -37,6 +37,7 @@
     - [elementary_matrix](fundamentals/elementary_matrix.ipynb)
     - [collections](fundamentals/collections.ipynb)
     - [Linked List](fundamentals/LinkedList.ipynb)
+    - [Binary Tree](fundamentals/BinaryTree.ipynb)
 
 ## Instructions
 
