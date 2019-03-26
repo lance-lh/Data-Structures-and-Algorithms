@@ -28,6 +28,7 @@
 - [string](DSA/string)
     - [13. Roman To Integer](DSA/string/RomanToInteger.ipynb)
 - [tree](DSA/tree)
+    - [94. Inorder Traversal](DSA/tree/InorderTraversal.ipynb)
     - [100. Same Tree](DSA/tree/SameTree.ipynb)
     - [101. Symmetric Tree](DSA/tree/SymmetricTree.ipynb)
 - [剑指offer](剑指offer)
