@@ -32,6 +32,8 @@
     - [100. Same Tree](DSA/tree/SameTree.ipynb)
     - [101. Symmetric Tree](DSA/tree/SymmetricTree.ipynb)
     - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
+    - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb)
+    - note: 94, 144, 145 have iterative and recursive solutions, but I just implement recursive solution(144 and 145, later I will add them here)
 - [剑指offer](剑指offer)
     - [01. Search in 2d array](剑指offer/findin2darray.py)
     - [02. Replace space](剑指offer/replacespace.py)
