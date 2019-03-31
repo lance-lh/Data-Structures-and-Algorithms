@@ -3,6 +3,7 @@
 input a 2d array and an integer, judge if this integer included.
 '''
 
+# i starts from the leftmost row, and j starts from the rightmost column
 
 def Find(target, array):
 	if array == []:
@@ -16,7 +17,7 @@ def Find(target, array):
     while i < num_r and j >= 0:
         if target < array[i][j]:
             j -= 1
-        elif target > array[j][i]:
+        elif target > array[i][j]:
             i += 1
         else:
             return True
