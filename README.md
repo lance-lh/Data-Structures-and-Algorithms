@@ -43,6 +43,7 @@
   - [05. Stack to Queue](剑指offer/stacktoqueue.py)
   - [06. Min Number In Rotate Array](剑指offer/minNumberInRotateArray.py)
   - [07. Fibonacci](剑指offer/Fibonacci.py)
+  - [08. Jump Floor](剑指offer/jumpFloor.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
