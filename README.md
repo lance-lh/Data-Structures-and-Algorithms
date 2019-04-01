@@ -40,6 +40,7 @@
   - [02. Replace space](剑指offer/replacespace.py)
   - [03. Print List From Tail To Head](剑指offer/printListFromTailToHead.py)
   - [04. Reconstruct Binary Tree](剑指offer/reConstructBinaryTree.py)
+  - [05. Stack to Queue](剑指offer/stacktoqueue.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
