@@ -2,6 +2,9 @@
 substitute space with “%20”
 '''
 
+# traverse the whole string, compute the space nums and calculate the new string length
+# traverse the string again, substitute from back to front
+
 def replaceSpace(s):
 
     # check boundary
