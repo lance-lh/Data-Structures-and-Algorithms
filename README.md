@@ -38,6 +38,7 @@
 - [剑指offer](剑指offer)
   - [01. Search in 2d array](剑指offer/findin2darray.py)
   - [02. Replace space](剑指offer/replacespace.py)
+  - [03. Print List From Tail To Head](剑指offer/printListFromTailToHead.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
