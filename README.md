@@ -46,6 +46,7 @@
   - [08. Jump Floor](剑指offer/jumpFloor.py)
   - [09. Jump Floor II](剑指offer/jumpFloorII.py)
   - [10. Rect Cover](剑指offer/rectCover.py)
+  - [11. Number of 1](剑指offer/NumberOf1.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
