@@ -52,6 +52,7 @@
   - [14. Find K-th To Tail](剑指offer/FindKthToTail.py)
   - [15. Reverse List](剑指offer/ReverseList.py)
   - [16. Merge](剑指offer/Merge.py)
+  - [17. Has Subtree](剑指offer/HasSubtree.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
