@@ -55,6 +55,7 @@
   - [17. Has Subtree](剑指offer/HasSubtree.py)
   - [18. Mirror](剑指offer/Mirror.py)
   - [19. Print Matrix](剑指offer/printMatrix.py)
+  - [20. Define Stack](剑指offer/DefineStack.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
