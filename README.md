@@ -60,6 +60,7 @@
   - [21. Is Pop Order](剑指offer/IsPopOrder.py)
   - [22. Print From Top To Bottom](剑指offer/PrintFromTopToBottom.py)
   - [23. Verify Sequence of BST](剑指offer/VerifySquenceOfBST.py)
+  - [24. FindPath.py](剑指offer/FindPath.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
