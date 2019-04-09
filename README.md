@@ -72,6 +72,7 @@
   - [collections](fundamentals/collections.ipynb)
   - [Stack](fundamentals/Stack.ipynb)
   - [Queue](fundamentals/Queue.ipynb)
+  - [Dequeue](fundamentals/Dequeue.ipynb)
   - [Linked List](fundamentals/LinkedList.ipynb)
   - [Binary Tree](fundamentals/BinaryTree.ipynb)
   - [Binary Search Tree](fundamentals/BST.ipynb)
