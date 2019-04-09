@@ -74,6 +74,8 @@
   - [Queue](fundamentals/Queue.ipynb)
   - [Dequeue](fundamentals/Dequeue.ipynb)
   - [Linked List](fundamentals/LinkedList.ipynb)
+  - [Doubly Linked List](fundamentals/DoublyLinkedList.ipynb)
+  - [Hash Table](fundamentals/HashTable.ipynb)
   - [Binary Tree](fundamentals/BinaryTree.ipynb)
   - [Binary Search Tree](fundamentals/BST.ipynb)
 
