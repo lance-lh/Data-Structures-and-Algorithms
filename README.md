@@ -78,6 +78,7 @@
   - [Hash Table](fundamentals/HashTable.ipynb)
   - [Binary Tree](fundamentals/BinaryTree.ipynb)
   - [Binary Search Tree](fundamentals/BST.ipynb)
+  - [Heap](fundamentals/Heap.ipynb)
 
 ## Instructions
 
