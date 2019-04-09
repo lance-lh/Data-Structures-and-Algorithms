@@ -71,6 +71,7 @@
   - [elementary_matrix](fundamentals/elementary_matrix.ipynb)
   - [collections](fundamentals/collections.ipynb)
   - [Stack](fundamentals/Stack.ipynb)
+  - [Queue](fundamentals/Queue.ipynb)
   - [Linked List](fundamentals/LinkedList.ipynb)
   - [Binary Tree](fundamentals/BinaryTree.ipynb)
   - [Binary Search Tree](fundamentals/BST.ipynb)
