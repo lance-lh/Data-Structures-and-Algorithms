@@ -79,6 +79,7 @@
   - [Binary Tree](fundamentals/BinaryTree.ipynb)
   - [Binary Search Tree](fundamentals/BST.ipynb)
   - [Heap](fundamentals/Heap.ipynb)
+  - [Graph](fundamentals/Graph.ipynb)
 
 ## Instructions
 
