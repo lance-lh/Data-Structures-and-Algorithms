@@ -85,6 +85,7 @@
   - [Bubble Sort](fundamentals/BubbleSort.py)
   - [Selection Sort](fundamentals/SelectionSort.py)
   - [Insertion Sort](fundamentals/InsertionSort.py)
+  - [Shell Sort](fundamentals/ShellSort.py)
   
 
 ## Instructions
