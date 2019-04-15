@@ -82,6 +82,7 @@
   - [Binary Search Tree](fundamentals/BST.ipynb)
   - [Heap](fundamentals/Heap.ipynb)
   - [Graph](fundamentals/Graph.ipynb)
+  - [Bubble Sort](fundamentals/BubbleSort.py)
 
 ## Instructions
 
