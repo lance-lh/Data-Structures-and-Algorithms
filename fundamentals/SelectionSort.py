@@ -1,5 +1,6 @@
 # https://github.com/hustcc/JS-Sorting-Algorithm/blob/master/2.selectionSort.md
 
+# complexity: O(n^2)
 def selectionsort(arr):
     '''
     :param arr: list
