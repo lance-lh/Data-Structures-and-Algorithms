@@ -1,3 +1,7 @@
+# https://www.cnblogs.com/caseast/p/6085837.html
+# https://github.com/hustcc/JS-Sorting-Algorithm/blob/master/1.bubbleSort.md
+
+# complexity: O(n^2)
 def bubblesort(arr):
     '''
     :param arr: list
