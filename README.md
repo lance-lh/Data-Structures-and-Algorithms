@@ -88,6 +88,7 @@
   - [Shell Sort](fundamentals/ShellSort.py)
   - [Merge Sort](fundamentals/MergeSort.py)
   - [Quick Sort](fundamentals/QuickSort.py)
+  - [BFS](fundamentals/bfs.py)
   
 
 ## Instructions
