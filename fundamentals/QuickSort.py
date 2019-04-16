@@ -8,11 +8,11 @@ def quicksort(arr):
     :param arr: list
     :return: list
     '''
-    if not arr:
-        return []
+    if len(arr) < 2:
+        return arr
     else:
         pivot = arr[0]
-        left = [x for x in arr if x < pivot]
+        left = [x for x in arr[1:] if x < pivot]
         right = [x for x in arr[1:] if x >= pivot]
         return quicksort(left) + [pivot] + quicksort(right)
 
