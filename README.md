@@ -87,6 +87,7 @@
   - [Insertion Sort](fundamentals/InsertionSort.py)
   - [Shell Sort](fundamentals/ShellSort.py)
   - [Merge Sort](fundamentals/MergeSort.py)
+  - [Quick Sort](fundamentals/QuickSort.py)
   
 
 ## Instructions
