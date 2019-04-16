@@ -89,6 +89,7 @@
   - [Merge Sort](fundamentals/MergeSort.py)
   - [Quick Sort](fundamentals/QuickSort.py)
   - [BFS](fundamentals/bfs.py)
+  - [DFS](fundamentals/dfs.py)
   
 
 ## Instructions
