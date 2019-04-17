@@ -38,6 +38,9 @@
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb)   
     **note**: 94, 144, 145 have recursive and iterative solutions.
+  
+- [graph](DSA/graph)
+  - [997. Find the Town Judgel](DSA/graph/findJudge.ipynb)
 - [剑指offer](剑指offer)
   - [01. Search in 2d array](剑指offer/findin2darray.py)
   - [02. Replace space](剑指offer/replacespace.py)
