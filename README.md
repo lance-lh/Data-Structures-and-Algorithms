@@ -41,6 +41,7 @@
 - [graph](DSA/graph)
   - [133. Clone Graph](DSA/graph/cloneGraph.ipynb)
   - [207. Course Schedule](DSA/graph/canFinish.ipynb)
+  - [210. Course Schedule II](DSA/graph/canFinish2.ipynb)
   - [997. Find the Town Judgel](DSA/graph/findJudge.ipynb)
 - [剑指offer](剑指offer)
   - [01. Search in 2d array](剑指offer/findin2darray.py)
