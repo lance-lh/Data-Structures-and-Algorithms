@@ -40,6 +40,7 @@
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
 - [graph](DSA/graph)
   - [133. Clone Graph](DSA/graph/cloneGraph.ipynb)
+  - [207. Course Schedule](DSA/graph/canFinish.ipynb)
   - [997. Find the Town Judgel](DSA/graph/findJudge.ipynb)
 - [剑指offer](剑指offer)
   - [01. Search in 2d array](剑指offer/findin2darray.py)
@@ -93,7 +94,7 @@
   - [Quick Sort](fundamentals/QuickSort.py)
   - [BFS](fundamentals/bfs.py)
   - [DFS](fundamentals/dfs.py)
-  
+
 
 ## Instructions
 
