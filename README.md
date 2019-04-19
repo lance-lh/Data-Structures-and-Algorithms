@@ -72,6 +72,7 @@
   - [24. Find Path](剑指offer/FindPath.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
   - [35. Clone Complex Linked List](剑指offer/CloneComplexLinkedList.py)
+  - [36. Convert BST to DLL](剑指offer/ConvertBSTtoDLL.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
   - [Hailstone.ipynb](DSA/others/Hailstone.ipynb)
