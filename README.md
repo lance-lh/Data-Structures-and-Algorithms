@@ -28,6 +28,7 @@
   - [7. Reverse Integer](DSA/math/ReverseInteger.ipynb)
 - [backtracking](DSA/backtracking)
   - [46. Permutations](DSA/backtracking/Permutations.ipynb)
+  - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
 - [string](DSA/string)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
