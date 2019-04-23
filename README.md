@@ -81,6 +81,7 @@
   - [38. More Than Half Num](剑指offer/MoreThanHalfNum_Solution.py)
   - [39. Get Least Numbers](剑指offer/GetLeastNumbers.py)
   - [40. Find Greatest Sum Of SubArray](剑指offer/FindGreatestSumOfSubArray.py)
+  - [41. Number Of 1 Between 1 And N](剑指offer/NumberOf1Between1AndN.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
   - [Hailstone.ipynb](DSA/others/Hailstone.ipynb)
