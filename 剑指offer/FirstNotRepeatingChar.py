@@ -25,6 +25,7 @@ def FirstNotRepeatingChar(s):
 # O(n)
 
 def FirstNotRepeatingChar(s):
+    # char has 8 bits, therefore 2^8 possibilities
     lst = [0] * 256 # [0] * 256 is accurate
     if len(s) <= 0 or len(s) >= 10000:
         return -1
