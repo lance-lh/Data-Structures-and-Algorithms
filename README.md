@@ -83,6 +83,7 @@
   - [40. Find Greatest Sum Of SubArray](剑指offer/FindGreatestSumOfSubArray.py)
   - [41. Number Of 1 Between 1 And N](剑指offer/NumberOf1Between1AndN.py)
   - [42. Print Min Number](剑指offer/PrintMinNumber.py)
+  - [43. Get Ugly Number](剑指offer/GetUglyNumber.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
   - [Hailstone.ipynb](DSA/others/Hailstone.ipynb)
