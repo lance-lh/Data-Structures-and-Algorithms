@@ -39,6 +39,7 @@
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [424. Longest Repeating Character Replacement](DSA/slidingwindow/characterReplacement.ipynb)
   - [567. Permutation in String](DSA/slidingwindow/checkInclusion.ipynb)
+  - [978. Longest Turbulent Subarray](DSA/slidingwindow/maxTurbulenceSize.ipynb)
 - [tree](DSA/tree)
   - [94. Inorder Traversal](DSA/tree/InorderTraversal.ipynb)
   - [100. Same Tree](DSA/tree/SameTree.ipynb)
