@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$characterReplacement.coverage" NAME="characterReplacement Coverage Results" MODIFIED="1556181053122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1556183716854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$NumberOf1Between1AndN.coverage" NAME="NumberOf1Between1AndN Coverage Results" MODIFIED="1555990639141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Add_solution.coverage" NAME="Add_solution Coverage Results" MODIFIED="1556263719145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1555905518308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$PrintMinNumber.coverage" NAME="PrintMinNumber Coverage Results" MODIFIED="1556090634696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindGreatestSumOfSubArray.coverage" NAME="FindGreatestSumOfSubArray Coverage Results" MODIFIED="1555989357854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
@@ -47,7 +50,7 @@
       <file leaf-file-name="characterReplacement.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DSA/slidingwindow/characterReplacement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="0">
               <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
               <folding />
             </state>
@@ -68,17 +71,27 @@
         <entry file="file://$PROJECT_DIR$/剑指offer/maxInWindows.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthNodeInBST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KthNodeInBST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/KthNodeInBST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add_solution.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/Add_solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -149,6 +162,7 @@
         <option value="$PROJECT_DIR$/DSA/slidingwindow/checkInclusion.py" />
         <option value="$PROJECT_DIR$/剑指offer/maxInWindows.py" />
         <option value="$PROJECT_DIR$/剑指offer/KthNodeInBST.py" />
+        <option value="$PROJECT_DIR$/剑指offer/Add_solution.py" />
       </list>
     </option>
   </component>
@@ -158,11 +172,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="986" />
-    <option name="y" value="24" />
-    <option name="width" value="933" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="490" />
+    <option name="y" value="277" />
+    <option name="width" value="1193" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -182,6 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,19 +208,12 @@
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,8 +236,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maxInWindows">
-    <configuration name="GetUglyNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Add_solution">
+    <configuration name="Add_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -241,7 +250,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures-and-Algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/GetUglyNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/Add_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,19 +328,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.GetUglyNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Python.lengthOfLongestSubstring" />
-      <item index="2" class="java.lang.String" itemvalue="Python.characterReplacement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.checkInclusion" />
-      <item index="4" class="java.lang.String" itemvalue="Python.maxInWindows" />
+      <item index="0" class="java.lang.String" itemvalue="Python.lengthOfLongestSubstring" />
+      <item index="1" class="java.lang.String" itemvalue="Python.characterReplacement" />
+      <item index="2" class="java.lang.String" itemvalue="Python.checkInclusion" />
+      <item index="3" class="java.lang.String" itemvalue="Python.maxInWindows" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Add_solution" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.maxInWindows" />
-        <item index="1" class="java.lang.String" itemvalue="Python.checkInclusion" />
-        <item index="2" class="java.lang.String" itemvalue="Python.characterReplacement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lengthOfLongestSubstring" />
-        <item index="4" class="java.lang.String" itemvalue="Python.GetUglyNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Add_solution" />
+        <item index="1" class="java.lang.String" itemvalue="Python.maxInWindows" />
+        <item index="2" class="java.lang.String" itemvalue="Python.checkInclusion" />
+        <item index="3" class="java.lang.String" itemvalue="Python.characterReplacement" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +413,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-6" width="1867" height="1086" extended-state="6" />
+    <frame x="490" y="277" width="1193" height="1050" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -412,9 +421,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28586388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21780105" sideWeight="0.498078" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22633298" sideWeight="0.498078" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23664922" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19659528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2755013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -514,13 +523,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DSA/backtracking/Combinations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/Permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -799,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,13 +822,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/slidingwindow/characterReplacement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="0">
           <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding />
         </state>
@@ -845,15 +844,23 @@
     <entry file="file://$PROJECT_DIR$/剑指offer/maxInWindows.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/KthNodeInBST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/Add_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
