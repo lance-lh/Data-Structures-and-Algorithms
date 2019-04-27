@@ -26,6 +26,7 @@
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
 - [math](DSA/math)
   - [7. Reverse Integer](DSA/math/ReverseInteger.ipynb)
+  - [9. Palindrome Number](DSA/math/isPalindrome.ipynb)
 - [backtracking](DSA/backtracking)
   - [46. Permutations](DSA/backtracking/Permutations.ipynb)
   - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
