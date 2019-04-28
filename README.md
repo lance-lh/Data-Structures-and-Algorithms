@@ -32,6 +32,7 @@
   - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
   - [77. Combinations](DSA/backtracking/combinations.ipynb)
 - [dynamic programming](DSA/dp)
+  - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
   - [70. Climbing Stairs](DSA/dp/climbStairs.ipynb)
 - [string](DSA/string)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
