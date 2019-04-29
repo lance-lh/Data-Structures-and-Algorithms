@@ -34,6 +34,7 @@
 - [dynamic programming](DSA/dp)
   - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
   - [70. Climbing Stairs](DSA/dp/climbStairs.ipynb)
+  - [121. Best Time to Buy and Sell Stock](DSA/dp/maxProfit.ipynb)
 - [string](DSA/string)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
