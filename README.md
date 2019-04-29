@@ -32,6 +32,7 @@
   - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
   - [77. Combinations](DSA/backtracking/combinations.ipynb)
 - [dynamic programming](DSA/dp)
+  - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
   - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
   - [70. Climbing Stairs](DSA/dp/climbStairs.ipynb)
   - [121. Best Time to Buy and Sell Stock](DSA/dp/maxProfit.ipynb)
