@@ -19,6 +19,7 @@
   - [11. Container With Most Water](DSA/arrays/MaxArea.ipynb)
   - [15. 3Sum](DSA/arrays/ThreeSum.ipynb)
   - [16. 3Sum Closest](DSA/arrays/ThreeSumClosest.ipynb)
+  - [26. Remove Duplicates from Sorted Array](DSA/arrays/removeDuplicates.ipynb)
 - [linked list](DSA/linkedlist)
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
