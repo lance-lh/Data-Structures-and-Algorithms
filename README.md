@@ -129,6 +129,7 @@
   - [Quick Sort](fundamentals/QuickSort.py)
   - [BFS](fundamentals/bfs.py)
   - [DFS](fundamentals/dfs.py)
+  - [Dijkstra Algorithm](fundamentals/dijkstra.py)
 
 
 ## Instructions
