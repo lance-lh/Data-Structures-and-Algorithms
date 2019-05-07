@@ -24,6 +24,8 @@
 - [linked list](DSA/linkedlist)
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
+- [stack](DSA/stack)
+  - [155. Min Stack](DSA/stack/minstack.ipynb)
 - [hash table](DSA/hashtable)
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
 - [math](DSA/math)
