@@ -20,6 +20,7 @@
   - [15. 3Sum](DSA/arrays/ThreeSum.ipynb)
   - [16. 3Sum Closest](DSA/arrays/ThreeSumClosest.ipynb)
   - [26. Remove Duplicates from Sorted Array](DSA/arrays/removeDuplicates.ipynb)
+  - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
 - [linked list](DSA/linkedlist)
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
