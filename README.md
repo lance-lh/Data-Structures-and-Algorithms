@@ -56,6 +56,7 @@
   - [14. Longest Common Prefix](DSA/string/longestCommonPrefix.ipynb)
   - [17. Letter Combinations of a Phone Number](DSA/string/letterCombinations)
   - [20. Valid Parentheses](DSA/string/isValid.ipynb)
+  - [22. Generate Parentheses](DSA/string/generateParenthesis.ipynb)
 - [sliding window](DSA/slidingwindow)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [424. Longest Repeating Character Replacement](DSA/slidingwindow/characterReplacement.ipynb)
