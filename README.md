@@ -25,6 +25,7 @@
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
 - [linked list](DSA/linkedlist)
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
+  - [19. Remove Nth Node From End of List](DSA/linkedlist/removeNthFromEnd.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
   - [160. Intersection of Two Linked Lists](DSA/linkedlist/getIntersectionNode.ipynb)
   - [206. Reverse Linked List](DSA/linkedlist/reverseList.ipynb)
