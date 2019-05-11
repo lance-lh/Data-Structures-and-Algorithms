@@ -21,6 +21,7 @@
   - [16. 3Sum Closest](DSA/arrays/ThreeSumClosest.ipynb)
   - [26. Remove Duplicates from Sorted Array](DSA/arrays/removeDuplicates.ipynb)
   - [31. Next Permutation](DSA/arrays/nextPermutation.ipynb)
+  - [33. Search in Rotated Sorted Array](DSA/arrays/searchInRotatedArray.ipynb)
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
