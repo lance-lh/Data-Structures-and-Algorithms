@@ -34,6 +34,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1557551756141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxInWindows.coverage" NAME="maxInWindows Coverage Results" MODIFIED="1556200807540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1557061853646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1557654027017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Permutation.coverage" NAME="Permutation Coverage Results" MODIFIED="1557480586247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$searchRange.coverage" NAME="searchRange Coverage Results" MODIFIED="1557565507964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$myPow.coverage" NAME="myPow Coverage Results" MODIFIED="1556868776123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
@@ -84,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchRange.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="searchRange.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DSA/arrays/searchRange.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
               <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groupAnagrams.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DSA/string/groupAnagrams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -173,6 +184,7 @@
         <option value="$PROJECT_DIR$/DSA/string/letterCombinations.py" />
         <option value="$PROJECT_DIR$/DSA/arrays/nextPermutation.py" />
         <option value="$PROJECT_DIR$/DSA/arrays/searchRange.py" />
+        <option value="$PROJECT_DIR$/DSA/string/groupAnagrams.py" />
       </list>
     </option>
   </component>
@@ -224,7 +236,7 @@
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.searchRange">
+  <component name="RunManager" selected="Python.groupAnagrams">
     <configuration name="Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +283,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="letterCombinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="groupAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -284,7 +296,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures-and-Algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/string/letterCombinations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/string/groupAnagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +356,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.letterCombinations" />
-      <item index="1" class="java.lang.String" itemvalue="Python.permutations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Permutation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.nextPermutation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.searchRange" />
+      <item index="0" class="java.lang.String" itemvalue="Python.permutations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Permutation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.nextPermutation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.searchRange" />
+      <item index="4" class="java.lang.String" itemvalue="Python.groupAnagrams" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.searchRange" />
-        <item index="1" class="java.lang.String" itemvalue="Python.nextPermutation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Permutation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.permutations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.letterCombinations" />
+        <item index="0" class="java.lang.String" itemvalue="Python.groupAnagrams" />
+        <item index="1" class="java.lang.String" itemvalue="Python.searchRange" />
+        <item index="2" class="java.lang.String" itemvalue="Python.nextPermutation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Permutation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -430,13 +442,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-6" width="1867" height="1086" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34659687" sideWeight="0.501922" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23350786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23350786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3225131" sideWeight="0.498078" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3225131" sideWeight="0.498078" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23664922" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2317408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -530,8 +543,13 @@
           <line>47</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSA/string/groupAnagrams.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -543,13 +561,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fundamentals/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/string/longestPalindrome.ipynb" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -878,6 +889,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/string/groupAnagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding />
         </state>
       </provider>
