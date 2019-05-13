@@ -52,6 +52,7 @@
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
   - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
   - [62. Unique Paths](DSA/dp/uniquePaths.ipynb)
+  - [64. Minimum Path Sum](DSA/dp/minPathSum.ipynb)
   - [70. Climbing Stairs](DSA/dp/climbStairs.ipynb)
   - [72. Edit Distance](DSA/dp/minDistance.ipynb)
   - [121. Best Time to Buy and Sell Stock](DSA/dp/maxProfit.ipynb)
