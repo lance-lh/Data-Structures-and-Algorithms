@@ -26,6 +26,7 @@
   - [39. Combination Sum](DSA/arrays/combinationSum.ipynb)
   - [48. Rotate Image](DSA/arrays/rotateimg.ipynb)
   - [55. Jump Game](DSA/arrays/canJump.ipynb)
+  - [56. Merge Intervals](DSA/arrays/mergeIntervals.ipynb)
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
