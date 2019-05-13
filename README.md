@@ -49,6 +49,7 @@
   - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
   - [77. Combinations](DSA/backtracking/combinations.ipynb)
   - [78. Subsets](DSA/backtracking/subsets.ipynb)
+  - [79. Word Search](DSA/backtracking/wordSearch.ipynb)
 - [dynamic programming](DSA/dp)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
   - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
