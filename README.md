@@ -82,6 +82,7 @@
   - [101. Symmetric Tree](DSA/tree/SymmetricTree.ipynb)
   - [102. Level Order Traversal](DSA/tree/LevelOrder.ipynb)
   - [104. Maximum Depth of Binary Tree](DSA/tree/maxDepth.ipynb)
+  - [105. Construct Binary Tree from Preorder and Inorder Traversal](DSA/tree/buildTree.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb)   
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
