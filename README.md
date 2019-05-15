@@ -87,6 +87,7 @@
   - [114. Flatten Binary Tree to Linked List](DSA/tree/flatten.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
+  - [543. Diameter of Binary Tree](DSA/tree/diameterOfBinaryTree.ipynb)
   - [617. Merge Two Binary Trees](DSA/tree/mergeTrees.ipynb)  
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
 - [graph](DSA/graph)
