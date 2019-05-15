@@ -30,6 +30,7 @@
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
+  - [581. Shortest Unsorted Continuous Subarray](DSA/arrays/findUnsortedSubarray.ipynb)
 - [linked list](DSA/linkedlist)
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [19. Remove Nth Node From End of List](DSA/linkedlist/removeNthFromEnd.ipynb)
