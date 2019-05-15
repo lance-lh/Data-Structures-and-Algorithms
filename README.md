@@ -85,7 +85,8 @@
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](DSA/tree/buildTree.ipynb)
   - [114. Flatten Binary Tree to Linked List](DSA/tree/flatten.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
-  - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb)   
+  - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
+  - [617. Merge Two Binary Trees](DSA/tree/mergeTrees.ipynb)  
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
 - [graph](DSA/graph)
   - [133. Clone Graph](DSA/graph/cloneGraph.ipynb)
