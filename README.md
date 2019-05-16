@@ -35,6 +35,7 @@
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [19. Remove Nth Node From End of List](DSA/linkedlist/removeNthFromEnd.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
+  - [141. Linked List Cycle](DSA/linkedlist/hasCycle.ipynb)
   - [160. Intersection of Two Linked Lists](DSA/linkedlist/getIntersectionNode.ipynb)
   - [206. Reverse Linked List](DSA/linkedlist/reverseList.ipynb)
 - [stack](DSA/stack)
@@ -87,6 +88,7 @@
   - [114. Flatten Binary Tree to Linked List](DSA/tree/flatten.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
+  - [226. Invert Binary Tree](DSA/tree/invertTree.ipynb)
   - [543. Diameter of Binary Tree](DSA/tree/diameterOfBinaryTree.ipynb)
   - [617. Merge Two Binary Trees](DSA/tree/mergeTrees.ipynb)  
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
