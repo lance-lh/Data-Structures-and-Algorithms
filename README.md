@@ -39,6 +39,7 @@
   - [141. Linked List Cycle](DSA/linkedlist/hasCycle.ipynb)
   - [160. Intersection of Two Linked Lists](DSA/linkedlist/getIntersectionNode.ipynb)
   - [206. Reverse Linked List](DSA/linkedlist/reverseList.ipynb)
+  - [234. Palindrome Linked List](DSA/linkedlist/isPalindrome.ipynb)
 - [stack](DSA/stack)
   - [155. Min Stack](DSA/stack/minstack.ipynb)
 - [hash table](DSA/hashtable)
