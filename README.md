@@ -92,6 +92,7 @@
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
   - [226. Invert Binary Tree](DSA/tree/invertTree.ipynb)
+  - [437. Path Sum III](DSA/tree/pathSum.ipynb)
   - [543. Diameter of Binary Tree](DSA/tree/diameterOfBinaryTree.ipynb)
   - [617. Merge Two Binary Trees](DSA/tree/mergeTrees.ipynb)  
     **note**: 94, 144, 145 have recursive and iterative solutions.　　
