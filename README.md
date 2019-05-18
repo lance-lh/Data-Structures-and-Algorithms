@@ -45,6 +45,7 @@
   - [155. Min Stack](DSA/stack/minstack.ipynb)
 - [hash table](DSA/hashtable)
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
+  - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
 - [math](DSA/math)
   - [7. Reverse Integer](DSA/math/ReverseInteger.ipynb)
   - [9. Palindrome Number](DSA/math/isPalindrome.ipynb)
