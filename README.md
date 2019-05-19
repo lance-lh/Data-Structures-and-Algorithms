@@ -38,6 +38,8 @@
   - [19. Remove Nth Node From End of List](DSA/linkedlist/removeNthFromEnd.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
   - [141. Linked List Cycle](DSA/linkedlist/hasCycle.ipynb)
+  - [142. Linked List Cycle II](DSA/linkedlist/detectCycle.ipynb)
+  - [148. Sort List](DSA/linkedlist/sortList.ipynb)
   - [160. Intersection of Two Linked Lists](DSA/linkedlist/getIntersectionNode.ipynb)
   - [206. Reverse Linked List](DSA/linkedlist/reverseList.ipynb)
   - [234. Palindrome Linked List](DSA/linkedlist/isPalindrome.ipynb)
