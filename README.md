@@ -66,6 +66,7 @@
   - [70. Climbing Stairs](DSA/dp/climbStairs.ipynb)
   - [72. Edit Distance](DSA/dp/minDistance.ipynb)
   - [121. Best Time to Buy and Sell Stock](DSA/dp/maxProfit.ipynb)
+  - [139. Word Break](DSA/dp/wordBreak.ipynb)
 - [string](DSA/string)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
