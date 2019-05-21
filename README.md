@@ -56,6 +56,8 @@
   - [210. Course Schedule II](DSA/graph/canFinish2.ipynb)
 - [stack](DSA/stack)
   - [155. Min Stack](DSA/stack/minstack.ipynb)
+- [trie](DSA/trie)
+  - [208. Implement Trie (Prefix Tree)](DSA/trie/Trie.ipynb)
 - [hash table](DSA/hashtable)
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
   - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
