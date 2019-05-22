@@ -102,6 +102,7 @@
   - [20. Valid Parentheses](DSA/string/isValid.ipynb)
   - [22. Generate Parentheses](DSA/string/generateParenthesis.ipynb)
   - [49. Group Anagrams](DSA/string/groupAnagrams.ipynb)
+  - [344. Reverse String](DSA/string/reverseString.ipynb)
 - [sliding window](DSA/slidingwindow)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [424. Longest Repeating Character Replacement](DSA/slidingwindow/characterReplacement.ipynb)
