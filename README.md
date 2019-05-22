@@ -62,6 +62,7 @@
   - [208. Implement Trie (Prefix Tree)](DSA/trie/Trie.ipynb)
 - [hash table](DSA/hashtable)
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
+  - [387. First Unique Character in a String](DSA/hashtable/firstUniqChar.ipynb)
   - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
 - [bit-manipulation](DSA/bitmanipulation)
   - [461. Hamming Distance](DSA/bitmanipulation/hammingDistance.ipynb)
