@@ -118,6 +118,7 @@
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
   - [226. Invert Binary Tree](DSA/tree/invertTree.ipynb)
+  - [236. Lowest Common Ancestor of a Binary Tree](DSA/tree/lowestCommonAncestor.ipynb)
   - [437. Path Sum III](DSA/tree/pathSum.ipynb)
   - [538. Convert BST to Greater Tree](DSA/tree/convertBST.ipynb)
   - [543. Diameter of Binary Tree](DSA/tree/diameterOfBinaryTree.ipynb)
