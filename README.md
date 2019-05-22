@@ -37,6 +37,7 @@
   - [2. Add Two Numbers](DSA/linkedlist/AddTwoNums.ipynb)
   - [19. Remove Nth Node From End of List](DSA/linkedlist/removeNthFromEnd.ipynb)
   - [21. Merge Two Sorted Lists](DSA/linkedlist/MergeTwoSortedLists.ipynb)
+  - [24. Swap Nodes in Pairs](DSA/linkedlist/swapPairs.ipynb)
   - [141. Linked List Cycle](DSA/linkedlist/hasCycle.ipynb)
   - [142. Linked List Cycle II](DSA/linkedlist/detectCycle.ipynb)
   - [148. Sort List](DSA/linkedlist/sortList.ipynb)
