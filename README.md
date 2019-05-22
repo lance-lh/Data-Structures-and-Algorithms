@@ -29,6 +29,7 @@
   - [56. Merge Intervals](DSA/arrays/mergeIntervals.ipynb)
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
+  - [118. Pascal's Triangle](DSA/arrays/generate.ipynb)
   - [169. Majority Element](DSA/arrays/majorityElement.ipynb)
   - [283. Move Zeroes](DSA/arrays/moveZeroes.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
