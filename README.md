@@ -115,6 +115,7 @@
   - [978. Longest Turbulent Subarray](DSA/slidingwindow/maxTurbulenceSize.ipynb)
 - [tree](DSA/tree)
   - [94. Inorder Traversal](DSA/tree/InorderTraversal.ipynb)
+  - [95. Unique Binary Search Trees II](DSA/tree/generateTrees.ipynb)
   - [96. Unique Binary Search Trees](DSA/tree/numTrees.ipynb)
   - [98. Validate Binary Search Tree](DSA/tree/isValidBST.ipynb)
   - [100. Same Tree](DSA/tree/SameTree.ipynb)
