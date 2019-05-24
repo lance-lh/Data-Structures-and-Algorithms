@@ -60,6 +60,8 @@
   - [210. Course Schedule II](DSA/graph/canFinish2.ipynb) 
 - [divide and conquer](DSA/dc)
   - [215. Kth Largest Element in an Array](DSA/dc/findKthLargest.ipynb)
+- [recursion](DSA/recursion)
+  - [779. K-th Symbol in Grammar](DSA/recursion/kthGrammar.ipynb)
 - [stack](DSA/stack)
   - [155. Min Stack](DSA/stack/minstack.ipynb)
 - [trie](DSA/trie)
