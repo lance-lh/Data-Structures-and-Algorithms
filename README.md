@@ -27,6 +27,7 @@
   - [48. Rotate Image](DSA/arrays/rotateimg.ipynb)
   - [55. Jump Game](DSA/arrays/canJump.ipynb)
   - [56. Merge Intervals](DSA/arrays/mergeIntervals.ipynb)
+  - [66. Plus One](DSA/arrays/plusOne.ipynb)
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
   - [118. Pascal's Triangle](DSA/arrays/generate.ipynb)
