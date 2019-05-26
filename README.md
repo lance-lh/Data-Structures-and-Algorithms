@@ -107,6 +107,7 @@
   - [20. Valid Parentheses](DSA/string/isValid.ipynb)
   - [22. Generate Parentheses](DSA/string/generateParenthesis.ipynb)
   - [28. Implement strStr()](DSA/string/strStr.ipynb)
+  - [38. Count and Say](DSA/string/countAndSay.ipynb)
   - [49. Group Anagrams](DSA/string/groupAnagrams.ipynb)
   - [344. Reverse String](DSA/string/reverseString.ipynb)
 - [sliding window](DSA/slidingwindow)
