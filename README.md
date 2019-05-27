@@ -33,6 +33,7 @@
   - [88. Merge Sorted Array](DSA/arrays/merge.ipynb)
   - [118. Pascal's Triangle](DSA/arrays/generate.ipynb)
   - [119. Pascal's Triangle II](DSA/arrays/getRow.ipynb)
+  - [122. Best Time to Buy and Sell Stock II](DSA/arrays/maxProfit.ipynb)
   - [169. Majority Element](DSA/arrays/majorityElement.ipynb)
   - [283. Move Zeroes](DSA/arrays/moveZeroes.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
