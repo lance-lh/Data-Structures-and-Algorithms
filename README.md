@@ -128,6 +128,7 @@
   - [102. Level Order Traversal](DSA/tree/LevelOrder.ipynb)
   - [104. Maximum Depth of Binary Tree](DSA/tree/maxDepth.ipynb)
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](DSA/tree/buildTree.ipynb)
+  - [108. Convert Sorted Array to Binary Search Tree](DSA/tree/sortedArrayToBST.ipynb)
   - [114. Flatten Binary Tree to Linked List](DSA/tree/flatten.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
