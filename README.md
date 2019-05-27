@@ -30,6 +30,7 @@
   - [66. Plus One](DSA/arrays/plusOne.ipynb)
   - [75. Sort Colors](DSA/arrays/sortColors.ipynb)
   - [84. Largest Rectangle in Histogram](DSA/arrays/largestRectangleArea.ipynb)
+  - [88. Merge Sorted Array](DSA/arrays/merge.ipynb)
   - [118. Pascal's Triangle](DSA/arrays/generate.ipynb)
   - [119. Pascal's Triangle II](DSA/arrays/getRow.ipynb)
   - [169. Majority Element](DSA/arrays/majorityElement.ipynb)

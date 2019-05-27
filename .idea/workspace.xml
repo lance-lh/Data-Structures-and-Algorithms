@@ -63,18 +63,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="plusOne.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DSA/arrays/plusOne.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -215,12 +204,6 @@
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,6 +409,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-6" width="1867" height="1086" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.501922" order="7" side_tool="true" content_ui="tabs" />
