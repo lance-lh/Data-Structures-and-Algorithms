@@ -35,6 +35,7 @@
   - [119. Pascal's Triangle II](DSA/arrays/getRow.ipynb)
   - [122. Best Time to Buy and Sell Stock II](DSA/arrays/maxProfit.ipynb)
   - [169. Majority Element](DSA/arrays/majorityElement.ipynb)
+  - [189. Rotate Array](DSA/arrays/rotate.ipynb)
   - [283. Move Zeroes](DSA/arrays/moveZeroes.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
   - [509. Fibonacci Number](DSA/arrays/fib.ipynb)
