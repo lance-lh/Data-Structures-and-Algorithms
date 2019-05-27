@@ -113,6 +113,7 @@
   - [28. Implement strStr()](DSA/string/strStr.ipynb)
   - [38. Count and Say](DSA/string/countAndSay.ipynb)
   - [49. Group Anagrams](DSA/string/groupAnagrams.ipynb)
+  - [125. Valid Palindrome](DSA/string/isPalindrome.ipynb)
   - [344. Reverse String](DSA/string/reverseString.ipynb)
 - [sliding window](DSA/slidingwindow)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
