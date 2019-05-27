@@ -81,6 +81,7 @@
   - [50. Pow(x, n)](DSA/math/myPow.ipynb)
   - [69. Sqrt(x)](DSA/math/mySqrt.ipynb)
   - [171. Excel Sheet Column Number](DSA/math/titleToNumber.ipynb)
+  - [172. Factorial Trailing Zeroes](DSA/math/trailingZeroes.ipynb)
 - [backtracking](DSA/backtracking)
   - [46. Permutations](DSA/backtracking/Permutations.ipynb)
   - [47. Permutations II](DSA/backtracking/PermutationsII.ipynb)
