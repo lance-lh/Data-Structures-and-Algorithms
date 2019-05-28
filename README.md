@@ -75,6 +75,7 @@
   - [387. First Unique Character in a String](DSA/hashtable/firstUniqChar.ipynb)
   - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
 - [bit-manipulation](DSA/bitmanipulation)
+  - [190. Reverse Bits](DSA/bitmanipulation/reverseBits.ipynb)
   - [461. Hamming Distance](DSA/bitmanipulation/hammingDistance.ipynb)
 - [math](DSA/math)
   - [7. Reverse Integer](DSA/math/ReverseInteger.ipynb)
