@@ -76,6 +76,7 @@
   - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
 - [bit-manipulation](DSA/bitmanipulation)
   - [190. Reverse Bits](DSA/bitmanipulation/reverseBits.ipynb)
+  - [191. Number of 1 Bits](DSA/bitmanipulation/hammingWeight.ipynb)
   - [461. Hamming Distance](DSA/bitmanipulation/hammingDistance.ipynb)
 - [math](DSA/math)
   - [7. Reverse Integer](DSA/math/ReverseInteger.ipynb)
