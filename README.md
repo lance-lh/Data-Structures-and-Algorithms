@@ -75,6 +75,7 @@
 - [hash table](DSA/hashtable)
   - [136. Single Number](DSA/hashtable/SingleNum.ipynb)
   - [242. Valid Anagram](DSA/hashtable/isAnagram.ipynb)
+  - [350. Intersection of Two Arrays II](DSA/hashtable/intersect.ipynb)
   - [387. First Unique Character in a String](DSA/hashtable/firstUniqChar.ipynb)
   - [438. Find All Anagrams in a String](DSA/hashtable/findAnagrams.ipynb)
 - [bit-manipulation](DSA/bitmanipulation)
