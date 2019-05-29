@@ -52,6 +52,7 @@
   - [160. Intersection of Two Linked Lists](DSA/linkedlist/getIntersectionNode.ipynb)
   - [206. Reverse Linked List](DSA/linkedlist/reverseList.ipynb)
   - [234. Palindrome Linked List](DSA/linkedlist/isPalindrome.ipynb)
+  - [237. Delete Node in a Linked List](DSA/linkedlist/deleteNode.ipynb)
 - [dfs](DSA/dfs)
   - [98. Validate Binary Search Tree](DSA/tree/isValidBST.ipynb)
   - [100. Same Tree](DSA/tree/SameTree.ipynb)
