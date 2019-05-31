@@ -119,6 +119,7 @@
   - [207. Course Schedule](DSA/graph/canFinish.ipynb)
   - [210. Course Schedule II](DSA/graph/canFinish2.ipynb)
   - [221. Maximal Square](DSA/dp/maximalSquare.ipynb)
+  - [300. Longest Increasing Subsequence](DSA/dp/lengthOfLIS.ipynb)
 - [string](DSA/string)
   - [3. Longest Substring Without Repeating Characters](DSA/string/lengthOfLongestSubstring.ipynb)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
