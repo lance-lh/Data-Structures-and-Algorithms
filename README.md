@@ -39,6 +39,7 @@
   - [217. Contains Duplicate](DSA/arrays/containsDuplicate.ipynb)
   - [238. Product of Array Except Self](DSA/arrays/productExceptSelf.ipynb)
   - [283. Move Zeroes](DSA/arrays/moveZeroes.ipynb)
+  - [287. Find the Duplicate Number](DSA/arrays/findDuplicate.ipynb)
   - [448. Find All Numbers Disappeared in an Array](DSA/arrays/findDisappearedNumbers.ipynb)
   - [509. Fibonacci Number](DSA/arrays/fib.ipynb)
   - [581. Shortest Unsorted Continuous Subarray](DSA/arrays/findUnsortedSubarray.ipynb)
