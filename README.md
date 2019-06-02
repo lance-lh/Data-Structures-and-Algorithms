@@ -203,6 +203,7 @@
   - [33. Get Ugly Number](剑指offer/GetUglyNumber.py)
   - [34. First Not Repeating Char](剑指offer/FirstNotRepeatingChar.py)
   - [40. Find Nums Appear Once](剑指offer/FindNumsAppearOnce.py)
+  - [40-1. Find Nums Appear Once](剑指offer/FindNumsAppearOnce1.py)
   - [48. Add](剑指offer/Add_solution.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
   - [64. Max In Windows](剑指offer/maxInWindows.py)
