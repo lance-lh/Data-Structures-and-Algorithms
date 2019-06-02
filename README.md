@@ -205,6 +205,7 @@
   - [40. Find Nums Appear Once](剑指offer/FindNumsAppearOnce.py)
   - [40-1. Find Nums Appear Once](剑指offer/FindNumsAppearOnce1.py)
   - [48. Add](剑指offer/Add_solution.py)
+  - [50. Duplicate](剑指offer/duplicate.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
   - [64. Max In Windows](剑指offer/maxInWindows.py)
 - [others](DSA/others)
