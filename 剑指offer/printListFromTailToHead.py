@@ -23,13 +23,24 @@ class Solution:
 
 
 # construct stack and use pop method to return result
-# def printListFromTailToHead(self, listNode):
-#     res, stack = [], []
-#
-#     # notice that: if is not a loop, use while instead!
-#     while listNode:
-#         stack.append(listNode.val)
-#         listNode = listNode.next
-#     for i in range(len(stack)):
-#         res.append(stack.pop())
-#     return res
+'''
+# 返回从尾部到头部的列表值序列，例如[1,2,3]
+def printListFromTailToHead(self, listNode):
+    res, stack = [], []
+    
+    # notice that: if is not a loop, use while instead!
+    while listNode:
+        stack.append(listNode.val)
+        listNode = listNode.next
+        
+    while stack:
+        res.append(stack.pop())
+    return res
+'''
+
+# recursive solution
+def printListFromTailToHead(self, listNode):
+    if not listNode:
+        return []
+    while listNode:
+        return self.printListFromTailToHead(listNode.next) + [listNode.val]
