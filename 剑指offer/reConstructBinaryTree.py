@@ -22,13 +22,20 @@
 class Solution:
     # 返回构造的TreeNode根节点
     def reConstructBinaryTree(self, pre, tin):
-        # check
-        if not pre or not tin:
-            return None
+        if tin:
+            ind = tin.index(pre.pop(0))
+            root = TreeNode(tin[ind])
+            root.left = self.reConstructBinaryTree(pre, tin[0:ind])
+            root.right = self.reConstructBinaryTree(pre, tin[ind+1:])
+            return root
 
-        root = TreeNode(pre[0])
-        index = tin.index(root.val)
-        # note: pre should start from 1, because 0 is root. follow left to left
-        root.left = self.reConstructBinaryTree(pre[1:index + 1], tin[:index])
-        root.right = self.reConstructBinaryTree(pre[index + 1:], tin[index + 1:])
-        return root
+        # check
+        # if not pre or not tin:
+        #     return None
+        #
+        # root = TreeNode(pre[0])
+        # index = tin.index(root.val)
+        # # note: pre should start from 1, because 0 is root. follow left to left
+        # root.left = self.reConstructBinaryTree(pre[1:index + 1], tin[:index])
+        # root.right = self.reConstructBinaryTree(pre[index + 1:], tin[index + 1:])
+        # return root
