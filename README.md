@@ -207,6 +207,7 @@
   - [48. Add](剑指offer/Add_solution.py)
   - [50. Duplicate](剑指offer/duplicate.py)
   - [50-1. Duplicate](剑指offer/duplicate1.py)
+  - [57. Get Next Node of Binary Tree](剑指offer/GetNext.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
   - [64. Max In Windows](剑指offer/maxInWindows.py)
 - [others](DSA/others)
@@ -254,4 +255,3 @@ The interactive features of the notebook will not work in my repo on GitHub. For
 - [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/)
 - [Working with Jupyter Notebook files on GitHub](https://help.github.com/en/articles/working-with-jupyter-notebook-files-on-github)
 - [nbviewer](https://nbviewer.jupyter.org/)
-
