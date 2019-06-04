@@ -25,7 +25,7 @@ NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
 
 # method 3: binary search
 # 链接：https://www.nowcoder.com/questionTerminal/9f3231a991af4f55b95579b44b7a01ba
-
+'''
 class Solution:
     def minNumberInRotateArray(self, rotateArray):
         # 思路应该是二分查找
@@ -43,3 +43,46 @@ class Solution:
             return self.minNumberInRotateArray(rotateArray[mid:end + 1])
         elif rotateArray[mid] < rotateArray[start]:
             return self.minNumberInRotateArray(rotateArray[start:mid + 1])
+'''       
+        
+
+
+class Solution:
+    def minNumberInRotateArray(self, rotateArray):
+        if not rotateArray:
+            return
+
+        start = 0
+        end = len(rotateArray)-1
+        mid = start
+
+        # rotate 0 data, which means the list is already sorted!
+        # if rotateArray[start] < rotateArray[end]:
+        #     return rotateArray[start]
+        while rotateArray[start] >= rotateArray[end]:
+            if end - start == 1:
+                mid = end
+                break
+
+            mid = (start + end) // 2
+
+            # if start, end and mid ptr points to the equal number in array
+            # then we should search from left to right
+            if rotateArray[start] == rotateArray[mid] and rotateArray[end] == rotateArray[mid]:
+                return self.Inorder(rotateArray, start, end)
+
+            # since rotatearray, if mid in left part, i.e.,mid > start, update start
+            # if mid in the right part, mid < end, update end
+            if rotateArray[mid] >= rotateArray[start]:
+                start = mid
+            elif rotateArray[mid] <= rotateArray[end]:
+                end = mid
+
+        return rotateArray[mid]
+
+    def Inorder(self, rotateArray,start,end):
+        res = rotateArray[start]
+        for i in range(start+1, end+1):
+            if rotateArray[i] < res:
+                res = rotateArray[i]
+        return result
