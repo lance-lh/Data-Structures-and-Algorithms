@@ -75,6 +75,7 @@
   - [779. K-th Symbol in Grammar](DSA/recursion/kthGrammar.ipynb)
 - [stack](DSA/stack)
   - [155. Min Stack](DSA/stack/minstack.ipynb)
+  - [232. Implement Queue using Stacks](DSA/stack/MyQueue.ipynb)
 - [trie](DSA/trie)
   - [208. Implement Trie (Prefix Tree)](DSA/trie/Trie.ipynb)
 - [hash table](DSA/hashtable)
