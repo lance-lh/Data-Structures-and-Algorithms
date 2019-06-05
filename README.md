@@ -212,6 +212,7 @@
   - [57. Get Next Node of Binary Tree](剑指offer/GetNext.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
   - [64. Max In Windows](剑指offer/maxInWindows.py)
+  - [65. Path in Matrix](剑指offer/hasPath.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
   - [Hailstone.ipynb](DSA/others/Hailstone.ipynb)
