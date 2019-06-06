@@ -88,6 +88,7 @@
 - [bit-manipulation](DSA/bitmanipulation)
   - [190. Reverse Bits](DSA/bitmanipulation/reverseBits.ipynb)
   - [191. Number of 1 Bits](DSA/bitmanipulation/hammingWeight.ipynb)
+  - [231. Power of Two](DSA/bitmanipulation/isPowerOfTwo.ipynb)
   - [268. Missing Number](DSA/bitmanipulation/missingNumber.ipynb)
   - [371. Sum of Two Integers](DSA/bitmanipulation/getSum.ipynb)
   - [461. Hamming Distance](DSA/bitmanipulation/hammingDistance.ipynb)
