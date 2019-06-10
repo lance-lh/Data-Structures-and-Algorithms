@@ -218,6 +218,7 @@
   - [64. Max In Windows](剑指offer/maxInWindows.py)
   - [65. Path in Matrix](剑指offer/hasPath.py)
   - [66. Motion Range](剑指offer/movingCount.py)
+  - [Print1ToMaxNDigits](剑指offer/PrintNumber.py)
 - [others](DSA/others)
   - [binary_search](DSA/others/binary_search_demo.ipynb)
   - [Hailstone.ipynb](DSA/others/Hailstone.ipynb)
