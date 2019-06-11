@@ -112,6 +112,7 @@
   - [79. Word Search](DSA/backtracking/wordSearch.ipynb)
 - [dynamic programming](DSA/dp)
   - [5. Longest Palindromic Substring](DSA/string/longestPalindrome.ipynb)
+  - [10. Regular Expression Matching](DSA/string/isMatch.ipynb)
   - [53. Maximum Subarray](DSA/dp/maxSubArray.ipynb)
   - [62. Unique Paths](DSA/dp/uniquePaths.ipynb)
   - [64. Minimum Path Sum](DSA/dp/minPathSum.ipynb)
