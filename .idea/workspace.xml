@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/剑指offer/FindKthToTail.py" afterPath="$PROJECT_DIR$/剑指offer/FindKthToTail.py" />
-    </list>
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindKthToTail.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指offer/FindKthToTail.py">
+      <file leaf-file-name="EntryNodeOfLoop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/EntryNodeOfLoop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="198">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -136,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指offer/FirstNotRepeatingChar.py" />
         <option value="$PROJECT_DIR$/DSA/string/lengthOfLongestSubstring.py" />
         <option value="$PROJECT_DIR$/fundamentals/collections.ipynb" />
         <option value="$PROJECT_DIR$/DSA/slidingwindow/characterReplacement.py" />
@@ -187,6 +184,7 @@
         <option value="$PROJECT_DIR$/剑指offer/isNumeric.py" />
         <option value="$PROJECT_DIR$/剑指offer/reOrderArray.py" />
         <option value="$PROJECT_DIR$/剑指offer/FindKthToTail.py" />
+        <option value="$PROJECT_DIR$/剑指offer/EntryNodeOfLoop.py" />
       </list>
     </option>
   </component>
@@ -622,13 +620,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指offer/KthNodeInBST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/string/MyAtoi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -998,8 +989,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/FindKthToTail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        <state relative-caret-position="432">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/EntryNodeOfLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding />
         </state>
       </provider>

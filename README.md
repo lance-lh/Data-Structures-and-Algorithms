@@ -216,6 +216,7 @@
   - [50-1. Duplicate](剑指offer/duplicate1.py)
   - [52. Regular Expression Matching](剑指offer/match.py)
   - [53. Is Numeric](剑指offer/isNumeric.py)
+  - [55. Entry Node Of Loop](剑指offer/EntryNodeOfLoop.py)
   - [56. Delete Duplication](剑指offer/deleteDuplication.py)
   - [57. Get Next Node of Binary Tree](剑指offer/GetNext.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
