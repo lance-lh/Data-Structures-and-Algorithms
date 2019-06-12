@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/剑指offer/reOrderArray.py" afterPath="$PROJECT_DIR$/剑指offer/reOrderArray.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,52 +12,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$intersect.coverage" NAME="intersect Coverage Results" MODIFIED="1559112444011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish2.coverage" NAME="canFinish2 Coverage Results" MODIFIED="1555574066794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$GetUglyNumber.coverage" NAME="GetUglyNumber Coverage Results" MODIFIED="1556095181700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$reOrderArray.coverage" NAME="reOrderArray Coverage Results" MODIFIED="1560310393081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$findMinHeightTrees.coverage" NAME="findMinHeightTrees Coverage Results" MODIFIED="1555585159191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$isPalindrome.coverage" NAME="isPalindrome Coverage Results" MODIFIED="1556848964127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1558854811015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Combinations.coverage" NAME="Combinations Coverage Results" MODIFIED="1556086622868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permuteUnique.coverage" NAME="permuteUnique Coverage Results" MODIFIED="1555935792347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$largestRectangleArea.coverage" NAME="largestRectangleArea Coverage Results" MODIFIED="1557202779790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ZigZagConversion.coverage" NAME="ZigZagConversion Coverage Results" MODIFIED="1555593177599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$letterCombinations.coverage" NAME="letterCombinations Coverage Results" MODIFIED="1557455234419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$numSquares.coverage" NAME="numSquares Coverage Results" MODIFIED="1559223480870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/bfs" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindNumsAppearOnce1.coverage" NAME="FindNumsAppearOnce1 Coverage Results" MODIFIED="1559447881122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$duplicate1.coverage" NAME="duplicate1 Coverage Results" MODIFIED="1559483149939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maximalSquare.coverage" NAME="maximalSquare Coverage Results" MODIFIED="1558508472398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1556981867943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1560305791732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$characterReplacement.coverage" NAME="characterReplacement Coverage Results" MODIFIED="1556181053122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$mergeIntervals.coverage" NAME="mergeIntervals Coverage Results" MODIFIED="1557734248161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1556183716854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$NumberOf1Between1AndN.coverage" NAME="NumberOf1Between1AndN Coverage Results" MODIFIED="1555990639141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Add_solution.coverage" NAME="Add_solution Coverage Results" MODIFIED="1556263719145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1557478549852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1558422768875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$PrintMinNumber.coverage" NAME="PrintMinNumber Coverage Results" MODIFIED="1556090634696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$findKthLargest.coverage" NAME="findKthLargest Coverage Results" MODIFIED="1558440985258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dc" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindGreatestSumOfSubArray.coverage" NAME="FindGreatestSumOfSubArray Coverage Results" MODIFIED="1555989357854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish.coverage" NAME="canFinish Coverage Results" MODIFIED="1555573035898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$getSum.coverage" NAME="getSum Coverage Results" MODIFIED="1559120877844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/bitmanipulation" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MoreThanHalfNum_Solution.coverage" NAME="MoreThanHalfNum_Solution Coverage Results" MODIFIED="1555986674315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MyAtoi.coverage" NAME="MyAtoi Coverage Results" MODIFIED="1556358537558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$findAnagrams.coverage" NAME="findAnagrams Coverage Results" MODIFIED="1558183434589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$countPrimes.coverage" NAME="countPrimes Coverage Results" MODIFIED="1559054356048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1556162193792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1557551756141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxInWindows.coverage" NAME="maxInWindows Coverage Results" MODIFIED="1556200807540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$titleToNumber.coverage" NAME="titleToNumber Coverage Results" MODIFIED="1558945574518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1557061853646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$PrintNumber.coverage" NAME="PrintNumber Coverage Results" MODIFIED="1560172271818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1557654027017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1557750719077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$plusOne.coverage" NAME="plusOne Coverage Results" MODIFIED="1558879060819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$NumberOf1.coverage" NAME="NumberOf1 Coverage Results" MODIFIED="1560164555556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Permutation.coverage" NAME="Permutation Coverage Results" MODIFIED="1557480586247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$searchRange.coverage" NAME="searchRange Coverage Results" MODIFIED="1557565507964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1558531773179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindNumsAppearOnce.coverage" NAME="FindNumsAppearOnce Coverage Results" MODIFIED="1559444661289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$intersect.coverage" NAME="intersect Coverage Results" MODIFIED="1559112444011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish2.coverage" NAME="canFinish2 Coverage Results" MODIFIED="1555574066794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$GetUglyNumber.coverage" NAME="GetUglyNumber Coverage Results" MODIFIED="1556095181700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$isPalindrome.coverage" NAME="isPalindrome Coverage Results" MODIFIED="1556848964127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1558854811015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ZigZagConversion.coverage" NAME="ZigZagConversion Coverage Results" MODIFIED="1555593177599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$numSquares.coverage" NAME="numSquares Coverage Results" MODIFIED="1559223480870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/bfs" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindNumsAppearOnce1.coverage" NAME="FindNumsAppearOnce1 Coverage Results" MODIFIED="1559447881122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maximalSquare.coverage" NAME="maximalSquare Coverage Results" MODIFIED="1558508472398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1556981867943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1556183716854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1557478549852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish.coverage" NAME="canFinish Coverage Results" MODIFIED="1555573035898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$getSum.coverage" NAME="getSum Coverage Results" MODIFIED="1559120877844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/bitmanipulation" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MoreThanHalfNum_Solution.coverage" NAME="MoreThanHalfNum_Solution Coverage Results" MODIFIED="1555986674315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$countPrimes.coverage" NAME="countPrimes Coverage Results" MODIFIED="1559054356048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1557551756141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxInWindows.coverage" NAME="maxInWindows Coverage Results" MODIFIED="1556200807540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$titleToNumber.coverage" NAME="titleToNumber Coverage Results" MODIFIED="1558945574518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$PrintNumber.coverage" NAME="PrintNumber Coverage Results" MODIFIED="1560172271818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$NumberOf1.coverage" NAME="NumberOf1 Coverage Results" MODIFIED="1560164555556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Permutation.coverage" NAME="Permutation Coverage Results" MODIFIED="1557480586247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$myPow.coverage" NAME="myPow Coverage Results" MODIFIED="1556868776123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
   </component>
   <component name="DatabaseView">
@@ -74,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="isNumeric.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指offer/isNumeric.py">
+      <file leaf-file-name="reOrderArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/reOrderArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="162">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -132,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指offer/PrintMinNumber.py" />
         <option value="$PROJECT_DIR$/剑指offer/GetUglyNumber.py" />
         <option value="$PROJECT_DIR$/剑指offer/FirstNotRepeatingChar.py" />
         <option value="$PROJECT_DIR$/DSA/string/lengthOfLongestSubstring.py" />
@@ -183,6 +186,7 @@
         <option value="$PROJECT_DIR$/剑指offer/deleteDuplication.py" />
         <option value="$PROJECT_DIR$/剑指offer/match.py" />
         <option value="$PROJECT_DIR$/剑指offer/isNumeric.py" />
+        <option value="$PROJECT_DIR$/剑指offer/reOrderArray.py" />
       </list>
     </option>
   </component>
@@ -256,39 +260,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintNumber">
-    <configuration name="FindNumsAppearOnce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.reOrderArray">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures-and-Algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/FindNumsAppearOnce.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="FindNumsAppearOnce1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data-Structures-and-Algorithms" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/FindNumsAppearOnce1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentals/InsertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,20 +333,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="reOrderArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Structures-and-Algorithms" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/reOrderArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FindNumsAppearOnce" />
-      <item index="1" class="java.lang.String" itemvalue="Python.FindNumsAppearOnce1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.duplicate1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NumberOf1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintNumber" />
+      <item index="0" class="java.lang.String" itemvalue="Python.duplicate1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.NumberOf1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PrintNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Python.InsertionSort" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reOrderArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NumberOf1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.duplicate1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FindNumsAppearOnce1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FindNumsAppearOnce" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reOrderArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.InsertionSort" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PrintNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Python.NumberOf1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.duplicate1" />
       </list>
     </recent_temporary>
   </component>
@@ -444,8 +448,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.498078" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2311828" sideWeight="0.49379933" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32150537" sideWeight="0.49313563" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28387097" sideWeight="0.49423394" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32150537" sideWeight="0.49313563" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28387097" sideWeight="0.49423394" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1867106" sideWeight="0.93566436" order="0" side_tool="true" content_ui="combo" x="529" y="222" width="914" height="630" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2520593" sideWeight="0.06433567" order="1" side_tool="false" content_ui="tabs" />
@@ -618,20 +622,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DSA/slidingwindow/characterReplacement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/slidingwindow/checkInclusion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="37" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/maxInWindows.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -991,8 +981,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/isNumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="164">
           <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentals/InsertionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/reOrderArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
       </provider>
