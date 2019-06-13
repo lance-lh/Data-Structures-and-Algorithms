@@ -27,5 +27,9 @@ class Solution:
             # zip() 函数用于将可迭代的对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的列表。
             # 如果各个迭代器的元素个数不一致，则返回列表长度与最短的对象相同，利用 * 号操作符，可以将元组解压为列表。
             # 总的效果相当于将矩阵逆时针旋转90度
-            matrix = zip(*matrix)[::-1]
+            matrix = list(zip(*matrix))[::-1]
         return res
+
+# test
+m = [[1,2,3],[4,5,6],[7,8,9]]
+print(Solution().printMatrix(m))

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/剑指offer/printMatrix.py" afterPath="$PROJECT_DIR$/剑指offer/printMatrix.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$intersect.coverage" NAME="intersect Coverage Results" MODIFIED="1559112444011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish2.coverage" NAME="canFinish2 Coverage Results" MODIFIED="1555574066794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$GetUglyNumber.coverage" NAME="GetUglyNumber Coverage Results" MODIFIED="1556095181700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$printMatrix.coverage" NAME="printMatrix Coverage Results" MODIFIED="1560411384612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$isPalindrome.coverage" NAME="isPalindrome Coverage Results" MODIFIED="1556848964127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1558854811015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ZigZagConversion.coverage" NAME="ZigZagConversion Coverage Results" MODIFIED="1555593177599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
@@ -76,11 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="isSymmetrical.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指offer/isSymmetrical.py">
+      <file leaf-file-name="printMatrix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/printMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="417">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指offer/maxInWindows.py" />
         <option value="$PROJECT_DIR$/剑指offer/KthNodeInBST.py" />
         <option value="$PROJECT_DIR$/剑指offer/Add_solution.py" />
         <option value="$PROJECT_DIR$/DSA/string/MyAtoi.py" />
@@ -185,6 +187,7 @@
         <option value="$PROJECT_DIR$/剑指offer/Merge.py" />
         <option value="$PROJECT_DIR$/剑指offer/Mirror.py" />
         <option value="$PROJECT_DIR$/剑指offer/isSymmetrical.py" />
+        <option value="$PROJECT_DIR$/剑指offer/printMatrix.py" />
       </list>
     </option>
   </component>
@@ -258,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reOrderArray">
+  <component name="RunManager" selected="Python.printMatrix">
     <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,7 +316,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="duplicate1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="printMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -326,7 +329,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures-and-Algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/duplicate1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/printMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,19 +353,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.duplicate1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.NumberOf1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PrintNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.InsertionSort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reOrderArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.NumberOf1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PrintNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.InsertionSort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reOrderArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.printMatrix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reOrderArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.InsertionSort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PrintNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NumberOf1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.duplicate1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.printMatrix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reOrderArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.InsertionSort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PrintNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NumberOf1" />
       </list>
     </recent_temporary>
   </component>
@@ -446,8 +449,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.498078" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2311828" sideWeight="0.49379933" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32150537" sideWeight="0.49313563" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28387097" sideWeight="0.49423394" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32150537" sideWeight="0.49313563" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28387097" sideWeight="0.49423394" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1867106" sideWeight="0.93566436" order="0" side_tool="true" content_ui="combo" x="529" y="222" width="914" height="630" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2520593" sideWeight="0.06433567" order="1" side_tool="false" content_ui="tabs" />
@@ -620,13 +623,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fundamentals/dijkstra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/arrays/largestRectangleArea.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1003,6 +999,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/printMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
