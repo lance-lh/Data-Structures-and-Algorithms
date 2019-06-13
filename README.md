@@ -25,6 +25,7 @@
   - [34. Find First and Last Position of Element in Sorted Array](DSA/arrays/searchRange.ipynb)
   - [39. Combination Sum](DSA/arrays/combinationSum.ipynb)
   - [48. Rotate Image](DSA/arrays/rotateimg.ipynb)
+  - [54. Spiral Matrix](DSA/arrays/spiralOrder.py)
   - [55. Jump Game](DSA/arrays/canJump.ipynb)
   - [56. Merge Intervals](DSA/arrays/mergeIntervals.ipynb)
   - [66. Plus One](DSA/arrays/plusOne.ipynb)
