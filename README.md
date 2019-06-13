@@ -219,6 +219,7 @@
   - [55. Entry Node Of Loop](剑指offer/EntryNodeOfLoop.py)
   - [56. Delete Duplication](剑指offer/deleteDuplication.py)
   - [57. Get Next Node of Binary Tree](剑指offer/GetNext.py)
+  - [58. Symmetrical Tree](剑指offer/isSymmetrical.py)
   - [62. Kth Node In BST](剑指offer/KthNodeInBST.py)
   - [64. Max In Windows](剑指offer/maxInWindows.py)
   - [65. Path in Matrix](剑指offer/hasPath.py)
