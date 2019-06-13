@@ -9,31 +9,41 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
+# iterative solution
+'''
 class Solution:
     # 返回合并后列表
-    def Merge(self, pHead1, pHead2):
-        # create a new empty node as head
-        dummy = ListNode(0)
-        # fetch the new head addr to pHead
-        pHead = dummy
+    def Merge(self, head1, head2):
+        if not head1 or not head2:
+            return head1 or head2
 
-        # traverse till one list to the last node
-        # use dummy to lead the pHead2 or pHead1
-        # finally, dummy becomes the last node of the list
-        while pHead1 and pHead2:
-            if pHead1.val >= pHead2.val:
-                dummy.next = pHead2
-                pHead2 = pHead2.next
+        head = cur = ListNode(0)
+
+        while head1 and head2:
+            if head1.val > head2.val:
+                cur.next = head2
+                head2 = head2.next
             else:
-                dummy.next = pHead1
-                pHead1 = pHead1.next
+                cur.next = head1
+                head1 = head1.next
+            cur = cur.next
+        cur.next = head1 or head2
+        return head.next
+'''
 
-            dummy = dummy.next
+# recursive solution
+class Solution:
+    # 返回合并后列表
+    def Merge(self, head1, head2):
+        if not head1 or not head2:
+            return head1 or head2
+        head = ListNode(0)
 
-        # pHead1.val >= pHead2.val
-        if pHead1:
-            dummy.next = pHead1
-        # pHead1.val < pHead2.val
-        elif pHead2:
-            dummy.next = pHead2
-        return pHead.next
+        if head1.val < head2.val:
+            head = head1
+            head.next = self.Merge(head1.next, head2)
+        else:
+            head = head2
+            head2.next = self.Merge(head1, head2.next)
+        return head
