@@ -8,6 +8,9 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
+# stack-based solution
+'''
 class Solution:
     # 返回ListNode
     def ReverseList(self, pHead):
@@ -32,3 +35,32 @@ class Solution:
                 node1.next = node2
         # after reversing and adjusting the pointer, stack[0] is the head node.
         return stack[0]
+'''
+
+# recursive solution
+'''
+class Solution:
+    # 返回ListNode
+    def ReverseList(self, head):
+        if not head or not head.next:
+            return head
+        reversedlist = self.ReverseList(head.next)
+        head.next.next = head
+        head.next = None
+        return reversedlist
+'''
+
+# iterative solution
+class Solution:
+    # 返回ListNode
+    def ReverseList(self, head):
+        if not head or not head.next:
+            return head
+        p,q = head,head.next
+        p.next = None
+        while q:
+            r = q.next
+            q.next = p
+            p = q
+            q = r
+        return p
