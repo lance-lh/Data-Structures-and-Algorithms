@@ -198,6 +198,7 @@
   - [20. Define Stack](剑指offer/DefineStack.py)
   - [21. Is Pop Order](剑指offer/IsPopOrder.py)
   - [22. Print From Top To Bottom](剑指offer/PrintFromTopToBottom.py)
+  - [22-1. Level Order Traversal 1](剑指offer/LevelOrderTraversal_listinlist.py)
   - [23. Verify Sequence of BST](剑指offer/VerifySquenceOfBST.py)
   - [24. Find Path](剑指offer/FindPath.py)
   - [25. Clone Complex Linked List](剑指offer/CloneComplexLinkedList.py)
