@@ -258,6 +258,7 @@
   - [Merge Sort](fundamentals/MergeSort.py)
   - [Quick Sort](fundamentals/QuickSort.py)
   - [Heap Sort](fundamentals/HeapSort.py)
+  - [Count Sort](fundamentals/CountSort.py)
   - [BFS](fundamentals/bfs.py)
   - [DFS](fundamentals/dfs.py)
   - [Dijkstra Algorithm](fundamentals/dijkstra.py)
