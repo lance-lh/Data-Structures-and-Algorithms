@@ -259,6 +259,8 @@
   - [Quick Sort](fundamentals/QuickSort.py)
   - [Heap Sort](fundamentals/HeapSort.py)
   - [Count Sort](fundamentals/CountSort.py)
+  - [Bucket Sort](fundamentals/bucketsort.py)
+  - [Radix Sort](fundamentals/radixSort.py)
   - [BFS](fundamentals/bfs.py)
   - [DFS](fundamentals/dfs.py)
   - [Dijkstra Algorithm](fundamentals/dijkstra.py)
