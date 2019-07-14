@@ -264,6 +264,7 @@
   - [BFS](fundamentals/bfs.py)
   - [DFS](fundamentals/dfs.py)
   - [Dijkstra Algorithm](fundamentals/dijkstra.py)
+  - [Reverse Stack](fundamentals/ReverseStack.py)
 
 
 ## Instructions
