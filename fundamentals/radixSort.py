@@ -14,3 +14,19 @@
 计数排序：每个桶只存储单一键值；
 桶排序：每个桶存储一定范围的数值；
 '''
+
+
+def radixSort(A):
+    for i in range(4):
+        s = [[] for _ in range(10)]
+        for j in A:
+            # priority: // first, then %
+            # 依次个位，十位，百位...
+            s[j // (10 ** i) % 10].append(j)
+        A = [a for b in s for a in b]
+    return A
+
+# test
+a = [5,1,2,9,3,6,4,7,10,8]
+print(a)
+print(radixSort(a))
