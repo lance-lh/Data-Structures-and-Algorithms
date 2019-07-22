@@ -243,6 +243,7 @@
   - [65. Path in Matrix](剑指offer/hasPath.py)
   - [66. Motion Range](剑指offer/movingCount.py)
   - [Print 1 To Max N Digits](剑指offer/PrintNumber.py)
+  - [1.2 Print Tree](剑指offer/printTree.py)
   - [8.3 Swap without extra variable](剑指offer/getSwap.py)
   - [8.4 Comparison without operation](剑指offer/getMax.py)
   - [8.5 Search odd](剑指offer/findOdd.py)
