@@ -249,6 +249,7 @@
   - [2.14 Check Duplicate](剑指offer/checkDuplicate.py)
   - [2.15 Merge Two Sorted Array](剑指offer/mergeAB.py)
   - [2.17 Sort Three Color](剑指offer/sortThreeColor.py)
+  - [2.18 Search in sorted matrix](剑指offer/findX.py)
   - [8.3 Swap without extra variable](剑指offer/getSwap.py)
   - [8.4 Comparison without operation](剑指offer/getMax.py)
   - [8.5 Search odd](剑指offer/findOdd.py)
