@@ -116,11 +116,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkDuplicate.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="checkDuplicate.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/checkDuplicate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mergeAB.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/mergeAB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -180,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DSA/dc/findKthLargest.py" />
         <option value="$PROJECT_DIR$/DSA/dp/maximalSquare.py" />
         <option value="$PROJECT_DIR$/DSA/hashtable/firstUniqChar.py" />
         <option value="$PROJECT_DIR$/DSA/string/strStr.py" />
@@ -231,6 +240,7 @@
         <option value="$PROJECT_DIR$/剑指offer/chkRotation.py" />
         <option value="$PROJECT_DIR$/剑指offer/sortElement.py" />
         <option value="$PROJECT_DIR$/剑指offer/checkDuplicate.py" />
+        <option value="$PROJECT_DIR$/剑指offer/mergeAB.py" />
       </list>
     </option>
   </component>
@@ -666,13 +676,6 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指offer/printListFromTailToHead.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/reConstructBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1000,6 +1003,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/mergeAB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
