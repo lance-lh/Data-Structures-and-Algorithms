@@ -246,6 +246,7 @@
   - [1.2 Print Tree](剑指offer/printTree.py)
   - [1.4 Rotate Two strings](剑指offer/chkRotation.py)
   - [2.13 Small-range sort](剑指offer/sortElement.py)
+  - [2.14 Check Duplicate](剑指offer/checkDuplicate.py)
   - [8.3 Swap without extra variable](剑指offer/getSwap.py)
   - [8.4 Comparison without operation](剑指offer/getMax.py)
   - [8.5 Search odd](剑指offer/findOdd.py)
