@@ -4,6 +4,7 @@ def permute(nums):
     :type nums: List[int]
     :rtype: List[List[int]]
     """
+    '''
     # 1. first solution
     res = [] # global
 
@@ -21,8 +22,8 @@ def permute(nums):
 
     dfs()
     return res
-
 '''
+
     # 2. second solution
     res = []
     dfs(nums, [], res)
@@ -35,7 +36,7 @@ def dfs(nums, path, res):
 
     for i in range(len(nums)):
         dfs(nums[:i] + nums[i + 1:], path + [nums[i]], res)
-'''
+
 
 '''
     # 3. third solution
