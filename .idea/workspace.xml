@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/backtracking/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/backtracking/permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/backtracking/permuteUnique.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/backtracking/permuteUnique.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.permutations">
+  <component name="RunManager" selected="Python.permuteUnique">
     <configuration name="maxGap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="radixSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="permuteUnique" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fundamentals/radixSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/backtracking/permuteUnique.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,19 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.radixSort" />
       <item itemvalue="Python.sortElement" />
       <item itemvalue="Python.shortestSubsequence" />
       <item itemvalue="Python.maxGap" />
       <item itemvalue="Python.permutations" />
+      <item itemvalue="Python.permuteUnique" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.permuteUnique" />
         <item itemvalue="Python.permutations" />
         <item itemvalue="Python.maxGap" />
         <item itemvalue="Python.shortestSubsequence" />
         <item itemvalue="Python.sortElement" />
-        <item itemvalue="Python.radixSort" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +308,7 @@
       <workItem from="1555377172754" duration="11420000" />
       <workItem from="1566797677416" duration="252000" />
       <workItem from="1566829493381" duration="312000" />
-      <workItem from="1566874595717" duration="2103000" />
+      <workItem from="1566874595717" duration="7965000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -414,10 +414,6 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>mock:///Python Console</url>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/剑指offer/Permutation.py</url>
           <line>28</line>
           <option name="timeStamp" value="24" />
@@ -488,9 +484,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1555335512781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permuteUnique.coverage" NAME="permuteUnique Coverage Results" MODIFIED="1566889761072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1555399689763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1555337594033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1555382023117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1566878797452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1566888350454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
   </component>
 </project>
