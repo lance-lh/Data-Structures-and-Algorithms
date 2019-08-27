@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/backtracking/permuteUnique.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/backtracking/permuteUnique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/backtracking/solveNQueens.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/backtracking/solveNQueens.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.permuteUnique">
-    <configuration name="maxGap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.remove_redundance">
+    <configuration name="one_line_transpose" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/maxGap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/one_line_transpose.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shortestSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_staple_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/shortestSubsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/random_staple_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sortElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remove_redundance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/sortElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/remove_redundance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,19 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sortElement" />
-      <item itemvalue="Python.shortestSubsequence" />
-      <item itemvalue="Python.maxGap" />
       <item itemvalue="Python.permutations" />
       <item itemvalue="Python.permuteUnique" />
+      <item itemvalue="Python.one_line_transpose" />
+      <item itemvalue="Python.random_staple_str" />
+      <item itemvalue="Python.remove_redundance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_redundance" />
+        <item itemvalue="Python.random_staple_str" />
+        <item itemvalue="Python.one_line_transpose" />
         <item itemvalue="Python.permuteUnique" />
         <item itemvalue="Python.permutations" />
-        <item itemvalue="Python.maxGap" />
-        <item itemvalue="Python.shortestSubsequence" />
-        <item itemvalue="Python.sortElement" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +308,7 @@
       <workItem from="1555377172754" duration="11420000" />
       <workItem from="1566797677416" duration="252000" />
       <workItem from="1566829493381" duration="312000" />
-      <workItem from="1566874595717" duration="7965000" />
+      <workItem from="1566874595717" duration="14577000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -482,9 +482,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$one_line_transpose.coverage" NAME="one_line_transpose Coverage Results" MODIFIED="1566893999645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1555335512781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1555332231545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$remove_redundance.coverage" NAME="remove_redundance Coverage Results" MODIFIED="1566894448014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$permuteUnique.coverage" NAME="permuteUnique Coverage Results" MODIFIED="1566889761072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$random_staple_str.coverage" NAME="random_staple_str Coverage Results" MODIFIED="1566894171488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1555399689763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1555337594033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MergeSort.coverage" NAME="MergeSort Coverage Results" MODIFIED="1555382023117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />

@@ -284,6 +284,9 @@
   - [Reverse Stack](fundamentals/ReverseStack.py)
 - [nowcoder](nowcoder)
   - [Highest score](nowcoder/HighestScore.py)
+  - [Matrix Transpose](nowcoder/one_line_transpose.py)
+  - [Random-Fixed length string](nowcoder/random_staple_str.py)
+  - [Remove List Duplication](nowcoder/remove_redundance.py)
 
 ## Instructions
 
