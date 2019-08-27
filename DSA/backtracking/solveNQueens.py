@@ -42,8 +42,9 @@ class Solution:
                     chess[r][c] = 'Q'
                     # fill row by row
                     dfs(r+1)
+                    # if not found exist, run bellow
                     chess[r][c] = '.'
-
+        # condition
         def isValid(r,c):
             # check previous
             # i to current r, j to n
@@ -53,9 +54,13 @@ class Solution:
                         return False
             return True
 
-
+        # global variable res
         res = []
         chess = [['.'] * n for _ in range(n)]
         # start from row 0
         dfs(0)
         return res
+#
+# if __name__ == 'main':
+#     n = 4
+#     print(Solution().solveNQueens(n))
