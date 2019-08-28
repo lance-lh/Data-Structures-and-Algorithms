@@ -112,6 +112,7 @@
   - [46. Permutations](DSA/backtracking/permutations.py)
   - [47. Permutations II](DSA/backtracking/permuteUnique.py)
   - [51. N-Queens](DSA/backtracking/solveNQueens.py)
+  - [52. N-Queens II](DSA/backtracking/totalNQueens.py)
   - [77. Combinations](DSA/backtracking/combinations.ipynb)
   - [78. Subsets](DSA/backtracking/subsets.ipynb)
   - [79. Word Search](DSA/backtracking/wordSearch.ipynb)
