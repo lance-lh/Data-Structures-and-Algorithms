@@ -272,8 +272,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.permuteUnique" />
       <item itemvalue="Python.one_line_transpose" />
+      <item itemvalue="Python.permuteUnique" />
       <item itemvalue="Python.random_staple_str" />
       <item itemvalue="Python.remove_redundance" />
       <item itemvalue="Python.totalNQueens" />
