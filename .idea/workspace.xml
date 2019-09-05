@@ -74,6 +74,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1558422768875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ReverseStack.coverage" NAME="ReverseStack Coverage Results" MODIFIED="1563022550908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish2.coverage" NAME="canFinish2 Coverage Results" MODIFIED="1555574066794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$auc.coverage" NAME="auc Coverage Results" MODIFIED="1567668739820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxGap.coverage" NAME="maxGap Coverage Results" MODIFIED="1563979298629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
   </component>
   <component name="DatabaseView">
@@ -215,7 +216,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lengthtotriangle">
+  <component name="RunManager" selected="Python.auc">
+    <configuration name="auc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/auc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dailyTemperatures" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,28 +275,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/lengthtotriangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="remove_redundance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/remove_redundance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,19 +328,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.remove_redundance" />
       <item itemvalue="Python.totalNQueens" />
       <item itemvalue="Python.trap" />
       <item itemvalue="Python.dailyTemperatures" />
       <item itemvalue="Python.lengthtotriangle" />
+      <item itemvalue="Python.auc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.auc" />
         <item itemvalue="Python.lengthtotriangle" />
         <item itemvalue="Python.dailyTemperatures" />
         <item itemvalue="Python.trap" />
         <item itemvalue="Python.totalNQueens" />
-        <item itemvalue="Python.remove_redundance" />
       </list>
     </recent_temporary>
   </component>

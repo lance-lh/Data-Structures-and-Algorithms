@@ -289,6 +289,7 @@
   - [Random-Fixed length string](nowcoder/random_staple_str.py)
   - [Remove List Duplication](nowcoder/remove_redundance.py)
   - [How many triangles?](nowcoder/lengthtotriangle.py)
+  - [AUC](nowcoder/auc.py)
 
 ## Instructions
 
