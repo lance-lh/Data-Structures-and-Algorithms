@@ -288,8 +288,13 @@
   - [Matrix Transpose](nowcoder/one_line_transpose.py)
   - [Random-Fixed length string](nowcoder/random_staple_str.py)
   - [Remove List Duplication](nowcoder/remove_redundance.py)
-  - [How many triangles?](nowcoder/lengthtotriangle.py)
+  - [List Monotonicity](nowcoder/list_monotonicity.py)
+  - [How many triangles?](nowcoder/lengthtotriangle.py) (8.28 HUAWEI 1)
   - [AUC](nowcoder/auc.py)
+  - [Delete char in string](nowcoder/delete_char.py)
+  - [Permutation of goods](nowcoder/goods_permutation.py) (9.6 ZTE)
+  - [Union Find tutorial](nowcoder/Union_Find_template.py)
+  - [Matrix Path](nowcoder/matrix_path.py) (8.28 HUAWEI 2)
 
 ## Instructions
 
