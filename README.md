@@ -296,6 +296,8 @@
   - [Union Find tutorial](nowcoder/Union_Find_template.py)
   - [Matrix Path](nowcoder/matrix_path.py) (8.28 HUAWEI 2)
   - [Delete Operation for Two Lists](nowcoder/delete_operation_for_two_lists.py) (8.28 HUAWEI 3)
+  - [Skills Permutation](nowcoder/skills_permutation.py)
+  - [Longest Common Substring](nowcoder/longestcommonsubstring.py)
 
 ## Instructions
 
