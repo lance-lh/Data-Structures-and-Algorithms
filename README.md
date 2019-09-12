@@ -299,6 +299,9 @@
   - [Delete Operation for Two Lists](nowcoder/delete_operation_for_two_lists.py) (8.28 HUAWEI 3)
   - [Skills Permutation](nowcoder/skills_permutation.py)
   - [Longest Common Substring](nowcoder/longestcommonsubstring.py)
+  - [Length of sorted list after romving redundance](nowcoder/five1.py) (9.12 58同城 1)
+  - [Same with leetcode candy](nowcoder/five2.py) (9.12 58同城 2)
+  - [Same with minimum path sum](nowcoder/five3.py) (9.12 58同城 3)
 
 ## Instructions
 

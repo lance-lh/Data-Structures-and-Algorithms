@@ -24,6 +24,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$Permutation.coverage" NAME="Permutation Coverage Results" MODIFIED="1557480586247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ZigZagConversion.coverage" NAME="ZigZagConversion Coverage Results" MODIFIED="1555593177599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$lengthtotriangle.coverage" NAME="lengthtotriangle Coverage Results" MODIFIED="1567587150916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$five1.coverage" NAME="five1 Coverage Results" MODIFIED="1568295475821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$findKthLargest.coverage" NAME="findKthLargest Coverage Results" MODIFIED="1558440985258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dc" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1558531773179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1557551756141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
@@ -62,6 +63,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$shortestSubsequence.coverage" NAME="shortestSubsequence Coverage Results" MODIFIED="1563891517762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$letterCombinations.coverage" NAME="letterCombinations Coverage Results" MODIFIED="1557455234419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$duplicate1.coverage" NAME="duplicate1 Coverage Results" MODIFIED="1559483149939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$five2.coverage" NAME="five2 Coverage Results" MODIFIED="1568295724172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$FindNumsAppearOnce.coverage" NAME="FindNumsAppearOnce Coverage Results" MODIFIED="1559444661289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1557750719077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/backtracking" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$searchRange.coverage" NAME="searchRange Coverage Results" MODIFIED="1557565507964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
@@ -81,8 +83,9 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1558422768875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$ReverseStack.coverage" NAME="ReverseStack Coverage Results" MODIFIED="1563022550908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamentals" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$canFinish2.coverage" NAME="canFinish2 Coverage Results" MODIFIED="1555574066794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/graph" />
-    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$auc.coverage" NAME="auc Coverage Results" MODIFIED="1567668739820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$auc.coverage" NAME="auc Coverage Results" MODIFIED="1568290291876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$maxGap.coverage" NAME="maxGap Coverage Results" MODIFIED="1563979298629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$five3.coverage" NAME="five3 Coverage Results" MODIFIED="1568295917725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -100,20 +103,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DSA/dp/uniquePathsWithObstacles.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nowcoder/five1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+            <state relative-caret-position="286">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nowcoder/five2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DSA/dp/uniquePaths.py">
+        <entry file="file://$PROJECT_DIR$/nowcoder/five3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="312">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -180,10 +192,14 @@
         <option value="$PROJECT_DIR$/nowcoder/Union_Find.py" />
         <option value="$PROJECT_DIR$/nowcoder/Union_Find_template.py" />
         <option value="$PROJECT_DIR$/nowcoder/matrix_path.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/DSA/dp/uniquePaths.py" />
         <option value="$PROJECT_DIR$/DSA/dp/uniquePathsWithObstacles.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/nowcoder/auc.py" />
+        <option value="$PROJECT_DIR$/nowcoder/five1.py" />
+        <option value="$PROJECT_DIR$/nowcoder/five3.py" />
+        <option value="$PROJECT_DIR$/nowcoder/five2.py" />
       </list>
     </option>
   </component>
@@ -208,17 +224,6 @@
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -257,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.uniquePathsWithObstacles">
-    <configuration name="Union_Find_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.five3">
+    <configuration name="auc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +276,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/Union_Find_template.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/auc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="goods_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="five1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +298,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/goods_permutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/five1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrix_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="five2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,7 +320,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/matrix_path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/five2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="uniquePaths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="five3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,12 +337,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/dp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/dp/uniquePaths.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/five3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,19 +374,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.matrix_path" />
-      <item itemvalue="Python.goods_permutation" />
-      <item itemvalue="Python.Union_Find_template" />
-      <item itemvalue="Python.uniquePaths" />
       <item itemvalue="Python.uniquePathsWithObstacles" />
+      <item itemvalue="Python.auc" />
+      <item itemvalue="Python.five1" />
+      <item itemvalue="Python.five2" />
+      <item itemvalue="Python.five3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.five3" />
+        <item itemvalue="Python.five2" />
+        <item itemvalue="Python.five1" />
+        <item itemvalue="Python.auc" />
         <item itemvalue="Python.uniquePathsWithObstacles" />
-        <item itemvalue="Python.uniquePaths" />
-        <item itemvalue="Python.matrix_path" />
-        <item itemvalue="Python.Union_Find_template" />
-        <item itemvalue="Python.goods_permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +413,7 @@
       <workItem from="1566961331016" duration="1969000" />
       <workItem from="1567135422634" duration="29573000" />
       <workItem from="1567668723851" duration="50768000" />
-      <workItem from="1568255632952" duration="10845000" />
+      <workItem from="1568255632952" duration="14403000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -449,7 +454,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91186000" />
+    <option name="totallyTimeSpent" value="94744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,8 +483,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011025" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" weight="0.17463617" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32948583" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" weight="0.3846154" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -676,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nowcoder/auc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nowcoder/lengthtotriangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -720,16 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="122" column="45" lean-forward="true" selection-start-line="122" selection-start-column="45" selection-end-line="122" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -744,6 +732,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="372">
+            <caret line="122" column="45" selection-start-line="122" selection-start-column="45" selection-end-line="122" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/dp/uniquePathsWithObstacles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/dp/uniquePaths.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -751,10 +756,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/dp/uniquePathsWithObstacles.py">
+    <entry file="file://$PROJECT_DIR$/nowcoder/auc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        <state relative-caret-position="286">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/five1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/five3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/five2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
