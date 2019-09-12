@@ -65,3 +65,4 @@ venv.bak/
 /site
 .mypy_cache/
 .gitignore
+.idea/workspace.xml
