@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +74,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1556981867943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$lengthOfLongestSubstring.coverage" NAME="lengthOfLongestSubstring Coverage Results" MODIFIED="1556162193792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/string" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$intersect.coverage" NAME="intersect Coverage Results" MODIFIED="1559112444011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$coinChange.coverage" NAME="coinChange Coverage Results" MODIFIED="1568384010272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1556183716854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/slidingwindow" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$myPow.coverage" NAME="myPow Coverage Results" MODIFIED="1556868776123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/math" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$MoreThanHalfNum_Solution.coverage" NAME="MoreThanHalfNum_Solution Coverage Results" MODIFIED="1555986674315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
@@ -103,10 +106,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DSA/tree/hasPathSum.py">
+        <entry file="file://$PROJECT_DIR$/DSA/dp/coinChange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="36" column="104" selection-start-line="36" selection-start-column="104" selection-end-line="36" selection-end-column="104" />
+            <state relative-caret-position="-29">
+              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -183,6 +186,7 @@
         <option value="$PROJECT_DIR$/nowcoder/five2.py" />
         <option value="$PROJECT_DIR$/DSA/dp/minPathSum.py" />
         <option value="$PROJECT_DIR$/DSA/tree/hasPathSum.py" />
+        <option value="$PROJECT_DIR$/DSA/dp/coinChange.py" />
       </list>
     </option>
   </component>
@@ -217,7 +221,7 @@
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.minPathSum">
-    <configuration name="auc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.coinChange">
+    <configuration name="coinChange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +264,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nowcoder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/dp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/auc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/dp/coinChange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +367,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.auc" />
       <item itemvalue="Python.five1" />
       <item itemvalue="Python.five2" />
       <item itemvalue="Python.five3" />
       <item itemvalue="Python.minPathSum" />
+      <item itemvalue="Python.coinChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coinChange" />
         <item itemvalue="Python.minPathSum" />
         <item itemvalue="Python.five3" />
         <item itemvalue="Python.five2" />
         <item itemvalue="Python.five1" />
-        <item itemvalue="Python.auc" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +406,7 @@
       <workItem from="1566961331016" duration="1969000" />
       <workItem from="1567135422634" duration="29573000" />
       <workItem from="1567668723851" duration="50768000" />
-      <workItem from="1568255632952" duration="21054000" />
+      <workItem from="1568255632952" duration="22703000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -443,7 +447,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101395000" />
+    <option name="totallyTimeSpent" value="103044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,12 +462,12 @@
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17144433" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17144433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49889746" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889746" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28066528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,7 +476,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011025" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" visible="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" weight="0.3846154" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -789,8 +793,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/tree/hasPathSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="36" column="104" selection-start-line="36" selection-start-column="104" selection-end-line="36" selection-end-column="104" />
+        <state relative-caret-position="182">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/dp/coinChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
