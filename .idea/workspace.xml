@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DSA/dp/minDistance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/dp/minDistance.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +103,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DSA/dp/minPathSum.py">
+        <entry file="file://$PROJECT_DIR$/DSA/tree/hasPathSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="936">
+              <caret line="36" column="104" selection-start-line="36" selection-start-column="104" selection-end-line="36" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -184,6 +182,7 @@
         <option value="$PROJECT_DIR$/nowcoder/five3.py" />
         <option value="$PROJECT_DIR$/nowcoder/five2.py" />
         <option value="$PROJECT_DIR$/DSA/dp/minPathSum.py" />
+        <option value="$PROJECT_DIR$/DSA/tree/hasPathSum.py" />
       </list>
     </option>
   </component>
@@ -218,7 +217,7 @@
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -403,7 +402,7 @@
       <workItem from="1566961331016" duration="1969000" />
       <workItem from="1567135422634" duration="29573000" />
       <workItem from="1567668723851" duration="50768000" />
-      <workItem from="1568255632952" duration="20038000" />
+      <workItem from="1568255632952" duration="21054000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -444,7 +443,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100379000" />
+    <option name="totallyTimeSpent" value="101395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,7 +464,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49889746" weight="0.32952183" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28066528" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28066528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
@@ -473,7 +472,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011025" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" weight="0.3846154" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944875" visible="true" weight="0.3846154" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -783,8 +782,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/dp/minPathSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="408">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/tree/hasPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" column="104" selection-start-line="36" selection-start-column="104" selection-end-line="36" selection-end-column="104" />
         </state>
       </provider>
     </entry>

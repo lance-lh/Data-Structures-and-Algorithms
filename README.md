@@ -167,6 +167,7 @@
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](DSA/tree/buildTree.ipynb)
   - [106. Construct Binary Tree from Inorder and Postorder Traversal](DSA/tree/buildTree.py)
   - [108. Convert Sorted Array to Binary Search Tree](DSA/tree/sortedArrayToBST.ipynb)
+  - [112. Path Sum](DSA/tree/hasPathSum)
   - [114. Flatten Binary Tree to Linked List](DSA/tree/flatten.ipynb)
   - [144. Preorder Traversal](DSA/tree/PreorderTraversal.ipynb)
   - [145. Postorder Traversal](DSA/tree/PostorderTraversal.ipynb) 
