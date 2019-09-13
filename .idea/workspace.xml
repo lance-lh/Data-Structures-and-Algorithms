@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be6338c-9a9d-4ade-b0cf-186da62b5658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/dp/minDistance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/dp/minDistance.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,7 @@
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$lengthtotriangle.coverage" NAME="lengthtotriangle Coverage Results" MODIFIED="1567587150916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$five1.coverage" NAME="five1 Coverage Results" MODIFIED="1568295475821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nowcoder" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$findKthLargest.coverage" NAME="findKthLargest Coverage Results" MODIFIED="1558440985258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dc" />
+    <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$minPathSum.coverage" NAME="minPathSum Coverage Results" MODIFIED="1568345051131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/dp" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1558531773179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/hashtable" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1557551756141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA/arrays" />
     <SUITE FILE_PATH="coverage/Data_Structures_and_Algorithms$sortElement.coverage" NAME="sortElement Coverage Results" MODIFIED="1563856052644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
@@ -103,29 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nowcoder/five1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nowcoder/five2.py">
+        <entry file="file://$PROJECT_DIR$/DSA/dp/minPathSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nowcoder/five3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -200,6 +183,7 @@
         <option value="$PROJECT_DIR$/nowcoder/five1.py" />
         <option value="$PROJECT_DIR$/nowcoder/five3.py" />
         <option value="$PROJECT_DIR$/nowcoder/five2.py" />
+        <option value="$PROJECT_DIR$/DSA/dp/minPathSum.py" />
       </list>
     </option>
   </component>
@@ -228,7 +212,13 @@
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.five3">
+  <component name="RunManager" selected="Python.minPathSum">
     <configuration name="auc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="uniquePathsWithObstacles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="minPathSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +354,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/dp/uniquePathsWithObstacles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/dp/minPathSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,19 +364,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.uniquePathsWithObstacles" />
       <item itemvalue="Python.auc" />
       <item itemvalue="Python.five1" />
       <item itemvalue="Python.five2" />
       <item itemvalue="Python.five3" />
+      <item itemvalue="Python.minPathSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minPathSum" />
         <item itemvalue="Python.five3" />
         <item itemvalue="Python.five2" />
         <item itemvalue="Python.five1" />
         <item itemvalue="Python.auc" />
-        <item itemvalue="Python.uniquePathsWithObstacles" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +403,7 @@
       <workItem from="1566961331016" duration="1969000" />
       <workItem from="1567135422634" duration="29573000" />
       <workItem from="1567668723851" duration="50768000" />
-      <workItem from="1568255632952" duration="14403000" />
+      <workItem from="1568255632952" duration="20038000" />
     </task>
     <task id="LOCAL-00001" summary="add bubble sort comment">
       <created>1555317955711</created>
@@ -454,7 +444,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94744000" />
+    <option name="totallyTimeSpent" value="100379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,13 +459,13 @@
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17144433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17144433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889746" visible="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28066528" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49889746" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28066528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
@@ -770,17 +760,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nowcoder/five3.py">
+    <entry file="file://$PROJECT_DIR$/nowcoder/five2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="364">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nowcoder/five2.py">
+    <entry file="file://$PROJECT_DIR$/nowcoder/five3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="-186">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/dp/minDistance.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/dp/minPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
